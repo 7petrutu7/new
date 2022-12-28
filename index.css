@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+input {
+    width: 100px;
+    
+}
+
+#saveBtn, #clearBtn{
+    margin: 0 2px;
+    padding: 2.5px 15px;
+}
+
+
+
+li {
+    width: 100px;
+    text-align: start;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 5px;
+}
+
+button {
+    margin-left: 20px;
+    padding: 8px 12px;
+    margin-top: 10px;
+    border: 1px solid;
+    
+}
+
+
+
+div{
+    display: flex;
+    align-items: center;
+}
