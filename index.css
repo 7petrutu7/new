@@ -6,6 +6,8 @@ body{
 /* 1 start Header fiu al luminii.ro */
 
 .headerDiv1 {
+    display: flex;
+    justify-content: center;
     background-color: grey;
     height: 100px;
 }
