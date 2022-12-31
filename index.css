@@ -3,20 +3,31 @@ body{
     padding: 0;
 }
 
-.headerDiv {
-    text-align: center;
+/* 1 start Header fiu al luminii.ro */
+
+.headerDiv1 {
     background-color: grey;
     height: 100px;
 }
 
 .headerH1{
+    text-align: center;
     padding-top: 20px;
     margin: 0;
     font-size: 2.5em;
     color: burlywood;
 }
 
-.headerA{
+.headerA1{
     text-decoration: none;
     color:burlywood ;
 }
+
+/* 1 end Header fiu al luminii.ro  */
+
+/* 2 start Header Biblia, credinta, Isus Hristos - Toate explicate */
+.headerH2 {
+    text-align: center;
+}   
+
+/* 2 end Header Biblia, credinta, Isus Hristos - Toate explicate*/
