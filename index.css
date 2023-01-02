@@ -1,36 +1,128 @@
+/* 1 start font added */
+@font-face {
+    font-family: roboto;
+    src: url(Roboto-Medium.ttf);
+}
+/* 1 end font added */
+
+/* 2 body start */
 body{
-    margin: 0;
-    padding: 0;
-}
-
-/* 1 start Header fiu al luminii.ro */
-
-.headerDiv1 {
-    display: flex;
-    justify-content: center;
-    background-color: grey;
-    height: 100px;
-}
-
-.headerH1{
+    font-size: 16px;
+    font-family: roboto, sans-serif;
     text-align: center;
-    padding-top: 20px;
-    margin: 0;
-    font-size: 2.5em;
-    color: burlywood;
+}
+/* 2 body end */
+
+/* 3 start header */
+
+
+h1{
+    font-size: 36px;
 }
 
-.headerA1{
+h3{
+    font-size: 20px;
+    color: #d0aaff;
+}
+
+/* 3 end header */
+
+/* 4 start main section 1  */
+
+.sneakersImg{
+    width: 100%;
+}
+
+/* 4 end main section 1 */
+
+/* 5 start Rest of elements who can be found in multiple location */
+h2{
+    margin-top: 0px;
+}
+
+
+a {
+    color: #ef5839;
     text-decoration: none;
-    color:burlywood ;
+    border-bottom: 1px dotted #ef5839;
 }
 
-/* 1 end Header fiu al luminii.ro  */
+p{
+    line-height: 23px;
+}
 
-/* 2 start Header Biblia, credinta, Isus Hristos - Toate explicate */
-.headerH2 {
-    text-align: center;
-    color: cadetblue;
-}   
 
-/* 2 end Header Biblia, credinta, Isus Hristos - Toate explicate*/
+
+a:hover, a:active{
+    color: #d4b44c;
+    border-bottom: 1px dotted #d4b44c;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+/* 5 end Rest of elements who can be found in multiple location */
+
+
+.img1, .img2 {
+    width: 290px;
+    border-radius: 4.6px;
+}
+
+.imgFlex {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+header, footer p, section{
+    padding: 45px 0px;
+}
+
+body, h1, h3{
+    margin: 0;
+}
+
+
+
+.stylingButtons{
+    display: inline-block;
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: 500;
+    margin-top: 5px;
+    border: none;
+}
+
+.stylingButtons:hover, .stylingButtons:active{
+    background-color: #f3e885;
+    border: none;
+}
+
+.infoLink, .aboutLink, footer p, .contactLink{
+    color: #5f29a3;
+}
+
+.buyLink, header, .section2{
+    background-color: #5f29a3;
+}
+
+.infoLink{
+    background-color: #f0e0ff;
+}
+
+.aboutLink, .contactLink{
+    background-color: whitesmoke;
+}
+
+
+
+h1, .buyLink, .section2{
+    color: whitesmoke;
+}
+
+body, .buyLink:hover, .infoLink:hover, .aboutLink:hover, .contactLink:hover{
+    color: #2b283a;
+}
