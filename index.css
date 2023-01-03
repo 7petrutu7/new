@@ -1,128 +1,57 @@
-/* 1 start font added */
-@font-face {
-    font-family: roboto;
-    src: url(Roboto-Medium.ttf);
-}
-/* 1 end font added */
+/* Selectors */
 
-/* 2 body start */
-body{
-    font-size: 16px;
-    font-family: roboto, sans-serif;
-    text-align: center;
-}
-/* 2 body end */
+body
+{margin: 0;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-size: 21px;
+font-weight: 300;}
 
-/* 3 start header */
+h1,h2
+{font-weight: 300;
+font-size: 60px;}
 
+h1 span,h2 span
+{display: block;
+font-weight: 900;
+font-size: 80px;}
 
-h1{
-    font-size: 36px;
-}
+h1
+{font-size: 80px;}
 
-h3{
-    font-size: 20px;
-    color: #d0aaff;
-}
+h2
+{font-size: 42px;}
 
-/* 3 end header */
+h3
+{font-size: 36px;}
 
-/* 4 start main section 1  */
-
-.sneakersImg{
-    width: 100%;
-}
-
-/* 4 end main section 1 */
-
-/* 5 start Rest of elements who can be found in multiple location */
-h2{
-    margin-top: 0px;
-}
+a
+{color: #99D930;}
 
 
-a {
-    color: #ef5839;
-    text-decoration: none;
-    border-bottom: 1px dotted #ef5839;
-}
+/* Classes */
 
-p{
-    line-height: 23px;
-}
+.container
+{width: 570px;
+margin: 0 auto;}
 
+.font-size16px
+{font-size: 16px;}
 
+.spacing100px
+{width: 100%;
+padding: 100px 0px;}
 
-a:hover, a:active{
-    color: #d4b44c;
-    border-bottom: 1px dotted #d4b44c;
-}
+.background1
+{background-color: #D7D7D7;}
 
-.container {
-    width: 600px;
-    margin: 0 auto;
-}
+.background2
+{background-color: #FFEAEA;}
 
-/* 5 end Rest of elements who can be found in multiple location */
+.background3
+{background-color: #EAF9FF;}
 
+/* Pseudo selectors */
 
-.img1, .img2 {
-    width: 290px;
-    border-radius: 4.6px;
-}
-
-.imgFlex {
-    display: flex;
-    justify-content: space-between;
-}
-
-
-header, footer p, section{
-    padding: 45px 0px;
-}
-
-body, h1, h3{
-    margin: 0;
-}
-
-
-
-.stylingButtons{
-    display: inline-block;
-    padding: 10px 19px;
-    border-radius: 4.6px;
-    font-weight: 500;
-    margin-top: 5px;
-    border: none;
-}
-
-.stylingButtons:hover, .stylingButtons:active{
-    background-color: #f3e885;
-    border: none;
-}
-
-.infoLink, .aboutLink, footer p, .contactLink{
-    color: #5f29a3;
-}
-
-.buyLink, header, .section2{
-    background-color: #5f29a3;
-}
-
-.infoLink{
-    background-color: #f0e0ff;
-}
-
-.aboutLink, .contactLink{
-    background-color: whitesmoke;
-}
-
-
-
-h1, .buyLink, .section2{
-    color: whitesmoke;
-}
-
-body, .buyLink:hover, .infoLink:hover, .aboutLink:hover, .contactLink:hover{
-    color: #2b283a;
-}
+a:hover
+{color: #131313;}
