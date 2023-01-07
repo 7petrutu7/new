@@ -1,35 +1,71 @@
 /* Selectors */
 
 body
-{margin: 0;
-text-align: center;
+{text-align: center;
 font-family: 'Roboto', sans-serif;
 font-size: 21px;
-font-weight: 300;}
+margin: 0;}
 
-h1,h2
-{font-weight: 300;
-font-size: 60px;}
+h1
+{font-size: 80px;
+background: -webkit-linear-gradient(grey, lightgreen);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+}
+
+h2
+{font-size: 42px;
+margin-bottom: 0px;}
+
+h3
+{font-size: 36px;}
+
+p
+{margin-bottom: 0;}
 
 h1 span,h2 span
 {display: block;
 font-weight: 900;
 font-size: 80px;}
 
-h1
-{font-size: 80px;}
+h1,h2,body
+{font-weight: 300;}
 
-h2
-{font-size: 42px;}
-
-h3
-{font-size: 36px;}
-
-a
-{color: #99D930;}
+h1,h2
+{margin-top: 0px;}
 
 
 /* Classes */
+
+.border{
+border-top: 1px solid #c4c4c4;
+border-bottom: 1px solid #c4c4c4;
+padding: 20px 0px;}
+
+.aButtons
+{font-weight: bold;
+display: inline-block;
+margin-top: 10px;
+color: #252525;
+padding: 10px;
+background-color: #99d930;
+text-decoration: none;}
+
+
+.h2section1
+{background: -webkit-linear-gradient(black, orange);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;}
+
+.h2section2
+{background: -webkit-linear-gradient(red, orange);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+margin-top: 15px;}
+
+.inverse
+{color: #fff;
+background-color: #242424;}
 
 .container
 {width: 650px;
@@ -42,16 +78,11 @@ margin: 0 auto;}
 {width: 100%;
 padding: 100px 0px;}
 
-.background1
-{background-color: #D7D7D7;}
-
 .background2
 {background-color: #FFEAEA;}
 
-.background3
-{background-color: #EAF9FF;}
 
 /* Pseudo selectors */
 
-a:hover
-{color: #131313;}
+a:hover, a:active, a:focus
+{color: #fff;}
