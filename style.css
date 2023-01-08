@@ -1,0 +1,168 @@
+/*// POP-UP BASE STYLES //*/
+
+body{margin: 0; position: relative;}
+body.pop-up{background: #222;}
+*{
+  font-family: Calibri, sans-serif; 
+  font-weight: normal;
+  color: #333;
+}
+h1{
+  font-size: 48px;
+  margin: 10px 0;
+}
+p{
+  margin-bottom: 40px;
+}
+#pop-up{
+  position: relative; 
+  top: 100px; 
+  width: 600px; 
+  margin: 0 auto; 
+  text-align: center;
+}
+#pop-up .container{
+  background: #f0e4d4; 
+  padding: 30px; 
+  position: absolute; 
+  top: 50px; 
+  width: 100%; 
+  box-sizing: border-box;
+}
+#pop-up input{
+  padding: 10px;
+  border: 0;
+  border-radius: 10px 0 0 10px;
+  border: 1px solid #333;
+  font-size: 18px;
+}
+button{
+  padding: 10px;
+  border: 0;
+  color: #fff;
+  background: #333;
+  margin-left: -5px;
+  margin-left: -5px;
+  border-radius: 0 10px 10px 0;
+  border: 1px solid #333;
+  font-size: 18px;
+}
+.cross{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: #555;
+  color: #ddd;
+  font-weight: bold;
+  width: 22px;
+  height: 22px;
+  text-align: center;
+  border-radius: 11px;
+}
+
+
+/*// POP-UP ANIMATION STYLES //*/
+
+#pop-up {
+  margin-left: 50%;
+  margin-top: -40%;
+  transform-origin: 10px 10px;
+  animation: drop 5s forwards linear, backgroundchange 10s infinite, 
+  swing 5s forwards 8s;
+}
+
+button{
+  animation: backgroundchange 10s infinite ;
+}
+
+
+
+@keyframes backgroundchange{
+  10%{background: linear-gradient(white, blue);}
+  20%{background: linear-gradient(red, orange);}
+  30%{background: linear-gradient(grey,violet);}
+  40%{background: linear-gradient(pink, red);}
+  50%{background: linear-gradient(goldenrod, green);}
+  60%{background: linear-gradient(black, white);}
+  70%{background: linear-gradient(lightblue, lightgreen);}
+  80%{background: linear-gradient(lime, blue);}
+  90%{background: linear-gradient(yellow, red);}
+  100%{background: linear-gradient(black, black);}
+}
+
+@keyframes colorchange{
+  20%{color:red}
+  10%{color:white;}
+  30%{color:grey;}
+  40%{color:pink;}
+  50%{color:gold;}
+  60%{color:black;}
+  70%{color:lightgreen}
+  80%{color:red;}
+  90%{color:yellow;}
+  100%{color:black;}
+}
+
+@keyframes swing{
+  0%{ transform: translateY(440px);}
+  30%{transform:  translateY(440px) rotateZ( 120deg);}
+  70%{transform:  translateY(440px) rotateZ( 50deg);}
+  100%{transform: translateY(440px) rotateZ(70deg);}
+}
+
+@keyframes drop {
+  0%{opacity:0; background: red;}
+  5%{background: lightblue;}
+  15%{background: lawngreen;}
+  30%{background: linear-gradient(whitesmoke, goldenrod);}
+  45%{background: pink;}
+  55%{background: crimson;}
+  65%{background: orangered;}
+  70%{transform: translateY(520px); background-color: blue;}
+  85%{transform: translateY(400px); background-color: yellow;}
+  100%{transform: translateY(440px); opacity: 1; }
+}
+
+@keyframes rotate {
+}
+
+/*// BASKET BASE STYLES //*/
+
+header{
+  padding: 10px 20px;
+  border-bottom: 1px solid #eee;
+  background: #fff;
+}
+header:after{
+  display: block;
+  content: "";
+  clear: both;
+}
+.basket ul{
+  padding: 0;
+  margin-top: 40px;
+}
+.basket li{
+  display: inline-block;
+  list-style-type: none;
+  width: 30%;
+  margin: 30px 1.5%;
+  text-align: center;
+}
+.basket button{
+  border-radius: 10px;
+  cursor: pointer;
+}
+.basket header div{
+  float: right;
+  position: relative;
+  z-index: 1;
+}
+.basket header h1{
+  float: left;
+}
+
+/*// BASKET ANIMATION STYLES //*/
+
+
+
