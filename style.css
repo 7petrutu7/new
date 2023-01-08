@@ -64,7 +64,7 @@ button{
 /*// POP-UP ANIMATION STYLES //*/
 
 #pop-up {
-  margin-left: 50%;
+  margin-left: 25%;
   margin-top: -40%;
   transform-origin: 10px 10px;
   animation: drop 5s forwards linear, backgroundchange 10s infinite, 
