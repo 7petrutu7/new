@@ -39,14 +39,14 @@ h2 {
 h1 {
     font-size: 60px;
     margin-top: 0;
-    transform: translateY(220px);
-    transition: transform 10s;
+    transform: rotateZ(360deg);
+    transition: 1s;
 }
 
 
 img {
-    transform: translateY(200px);
-    transition: transform 6s 1.2s;
+    transform: rotateY(2330deg);
+    transition: transform 4s 0.1s;
 }
 
 
