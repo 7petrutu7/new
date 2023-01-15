@@ -1,0 +1,59 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+/*
+Challenge:
+1. Get this layout looking like the 
+   screenshots on the slide.
+*/  
+
+
+header{background-color: #282828;}
+
+ul{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 0;
+    list-style-type: none;
+    padding: 25px;
+    gap: 10px;
+}
+
+.logo{
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.caption{
+    margin: 0px 25px;
+}
+
+li img{
+    width: 25px;
+}
+
+li:hover{
+    cursor: pointer;
+}
+
+section img{
+    width: 100%;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 400;
+    margin: 30px 25px;
+}
+
+.to-right{
+    margin-left: auto;
+}
