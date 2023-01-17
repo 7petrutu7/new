@@ -43,15 +43,25 @@ font-size: 16px;}
 }
 
 .cont{
+    border-radius: 50%;
+    padding: 10px;
+    height: 25px;
+    background-color: grey;
     margin-left: auto;
     color: #EEE853;
-    margin-top: -140px;
+    margin-top: -85px;
+    font-size: 1.3em;
 }
 
 .adauga{
-    margin-left: 30px;
-    margin-right: 20px;
-    margin-top: -140px;
+    border-radius: 50%;
+    background-color: grey;
+    padding: 10px;
+    height: 25px;
+    font-size: 1.3em;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: -85px;
     color: #EEE853;
     
 }
