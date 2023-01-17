@@ -1,59 +1,43 @@
-
-
-body {
+body{
     margin: 0;
-    padding: 0;
-    font-family: 'Montserrat', sans-serif;
-
 }
 
-/*
-Challenge:
-1. Get this layout looking like the 
-   screenshots on the slide.
-*/  
-
-
-header{background-color: #282828;}
-
-ul{
-    display: flex;
-    justify-content: start;
-    align-items: center;
-    margin: 0;
-    list-style-type: none;
-    padding: 25px;
-    gap: 10px;
+img{
+    margin-top: -28px;
+    margin-left: 18px;
+    width: 180px;
+    height: 180px;
 }
 
-.logo{
+.e{
     color: whitesmoke;
-    font-size: 18px;
-    font-weight: 700;
 }
 
-.caption{
-    margin: 0px 25px;
+header{
+    background-color:#082B2B ;
+    margin: 0;
+    height: 170px;
 }
 
-li img{
-    width: 25px;
+.mai{
+    color: #EEE853;
 }
 
-li:hover{
-    cursor: pointer;
+h3{
+    margin-left: 43px;
+    margin-top: -70px;
 }
 
-section img{
-    width: 100%;
+p{margin-top: -10px;
+font-size: 12px;}
+
+.rapid{
+    color: #eee853;
 }
 
-h1{
-    font-size: 40px;
-    font-weight: 400;
-    margin: 30px 25px;
-}
 
-.to-right{
-    margin-left: auto;
+.vinzi{
+    
+    margin-left: 10px;
+    color: #fff;
 }
