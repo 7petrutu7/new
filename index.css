@@ -41,3 +41,22 @@ font-size: 16px;}
     margin-left: 10px;
     color: #fff;
 }
+
+.cont{
+    margin-left: auto;
+    color: #EEE853;
+    margin-top: -140px;
+}
+
+.adauga{
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: -140px;
+    color: #EEE853;
+    
+}
+
+.container{
+    display: flex;
+    
+}
