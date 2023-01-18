@@ -2,101 +2,68 @@ body{
     margin: 0;
 }
 
+img{
+    margin-top: -28px;
+    margin-left: 50px;
+    width: 180px;
+    height: 180px;
+}
+
+.e{
+    color: whitesmoke;
+}
+
+header{
+    background-color:#082B2B ;
+    margin: 0;
+    height: 150px;
+}
+
+.mai{
+    color: #EEE853;
+}
+
+h3{
+    margin-left: 70px;
+    margin-top: -70px;
+}
+
+p{margin-top: -10px;
+font-size: 16px;}
+
+.rapid{
+    color: #eee853;
+}
+
+
+.vinzi{
+    
+    margin-left: 10px;
+    color: #fff;
+}
+
+.cont{
+    margin-left: auto;
+    color: #EEE853;
+    margin-top: -95px;
+    font-size: 1.5em;
+}
+
+
+.adauga:hover,.cont:hover,.vinzi:hover,.rapid:hover,p:hover,h3:hover,.mai:hover, .e:hover, img:hover{
+    cursor: pointer;
+}
+
+
+.adauga{
+    font-size: 1.5em;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: -95px;
+    color: #EEE853;
+    
+}
 
 .container{
-    width: 100%;
-    height:40px ;
     display: flex;
-    background-color: black;
-}
-
-h4{
-    font-size: 1.3em;
-    cursor: pointer;
-    color: whitesmoke;
-    margin:auto 5px auto 15px;
-}
-
-h1{
-    
-    font-size: 1.5em;
-    margin: 20px;
-    font-weight: 400;
-}
-
-.pin{
-    cursor: pointer;
-    margin:auto 0px auto 0px;
-    height: 20px;
-    width: 30px;
-}
-
-.menu{
-    margin: auto 20px auto auto;
-    height: 15px;
-    width: 20px;
-    cursor: pointer;
-}
-
-.imgs{
-    
-    display: block;
-    width: 100%;
-   
-}
-
-.for{
-    position: relative;
-}
-
-
-.exclusive{
-    top: 0;
-    position: absolute;
-    text-align: center;
-    color: white;
-    font-weight: bold;
-    padding: 10px;
-    background-color: lightsalmon;
-}
-
-p{
-    margin-left: 20px;
-    font-size: 1.2em;
-}
-
-.align{
-    display: flex;
-}
-
-button{
-    cursor: pointer;
-    font-weight: bold;
-    color: white;
-    border: none;
-    gap: 15px;
-    margin: auto 20px auto auto;
-    padding: 6px 20px;
-    background-color: lightsalmon;
-}
-
-.message-div{
-    box-shadow: 1px 1px 4px black;
-    cursor: pointer;
-    top: 0;
-    bottom: 5px;
-    right: 5px;
-    left: 0px;
-    margin: auto 0 0 auto;
-    position: fixed;
-    display: flex;
-    border-radius: 50%;
-    height: 40px;
-    width: 40px;
-    background-color: goldenrod;
-}
-
-.message-img{
-    margin: auto;
-    width: 50%;
 }
