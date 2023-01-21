@@ -150,7 +150,8 @@ button{
 
 .numeAnunt{
     margin-top: 30px;
-    font-size:2em;
+    font-size:2.2em;
+    margin-bottom: 40px;
 }
 
 .locatie{
@@ -159,16 +160,16 @@ button{
 }
 
 .pret{
+    font-weight: bold;
     font-size: 1.4em;
     color: #eee853;
 }
 
 
 .stare{
-    margin-top: 80px;
+    
     color: whitesmoke;
-    font-weight: bold;
-    font-size: 1.3em;
+    font-size: 1.5em;
 }
 
 
@@ -186,3 +187,20 @@ button{
 .top{
     background-color: goldenrod;
 }
+
+.buttons{
+    display: flex;
+    background-color: white;
+}
+
+.call, .message
+{   
+    height:54px;
+    width: 50%;
+}
+
+
+.callImg, .messageImg{
+    height: 100%;
+}
+
