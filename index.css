@@ -127,15 +127,15 @@ button{
 .anunt{
     background-color: #082B2B;
     height: 500px;
-    width: 500px;
+    width: 100%;
     display: flex;
     flex-direction: column;
 }
 
 .imgAnunt{
     margin: 0 auto;
-    height: 300px;
-    width: 500px;
+    width: 100%;
+    height: 50%;
 }
 
 .locatie,.pret{
@@ -153,10 +153,13 @@ button{
     color: #eee853;
 }
 
-.divAnunturi{
-    margin-bottom: 20px;
-}
+
 
 .margin{
-    margin-top: 100px;
+    margin-top: 50px;
+}
+
+.divAnunturi{
+    flex-direction: column;
+    margin-left: auto;
 }
