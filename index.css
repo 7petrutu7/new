@@ -135,13 +135,11 @@ button{
 }
 
 .imgAnunt{
-    margin: 0 auto;
     width: 100%;
-    height: 48%;
+    height: 42%;
 }
 
-.locatie,.pret{
-    color: #EEE853;
+.locatie,.pret,.stare{
     text-align: center;
     font-size: 1em;
 }
@@ -157,7 +155,6 @@ button{
 
 .locatie{
     font-size: 1em;
-    margin-top: 80px;
     margin-bottom: 25px;
 }
 
@@ -167,10 +164,13 @@ button{
 }
 
 
-
-.margin{
-    margin-top: 50px;
+.stare{
+    margin-top: 80px;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 1.3em;
 }
+
 
 .exclusive, .top{
     color: whitesmoke;
