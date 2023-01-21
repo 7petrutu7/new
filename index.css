@@ -72,7 +72,7 @@ font-size: 16px;}
 }
 
 h2{
-    margin-top: 40px;
+    margin: 40px 0px;
     color: #082B2B ;
     text-align: center;
 }
@@ -94,7 +94,7 @@ button{
 }
 
 
-.divCategori{
+.divCategori, .divAnunturi{
     gap: 10px;
     width: 100%;
     display: flex;
@@ -116,10 +116,42 @@ button{
     height: 50px;
 }
 
-.numeCategorie{
+.numeCategorie, .numeAnunt{
     margin-top: 10px;
     text-align: center;
-    font-size: 1.1em;
+    font-size: 1.3em;
     font-weight: bold;
     color: #082B2B;
+}
+
+.anunt{
+    background-color: #082B2B;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.imgAnunt{
+    height: 100px;
+    width: 200px;
+}
+
+.locatie,.pret{
+    color: #EEE853;
+    text-align: center;
+    font-size: 1em;
+}
+
+.numeAnunt,.locatie{
+    color: white;
+}
+
+
+.pret{
+    color: #eee853;
+}
+
+.divAnunturi{
+    margin-bottom: 20px;
 }
