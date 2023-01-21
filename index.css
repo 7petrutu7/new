@@ -1,8 +1,11 @@
+
+
+
 body{
     margin: 0;
 }
 
-img{
+.logo{
     margin-top: -28px;
     margin-left: 50px;
     width: 180px;
@@ -14,7 +17,7 @@ img{
 }
 
 header{
-    background-color:#082B2B ;
+    background-color: #082B2B ;
     margin: 0;
     height: 150px;
 }
@@ -57,8 +60,8 @@ font-size: 16px;}
 
 .adauga{
     font-size: 1.5em;
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
     margin-top: -95px;
     color: #EEE853;
     
@@ -66,4 +69,57 @@ font-size: 16px;}
 
 .container{
     display: flex;
+}
+
+h2{
+    margin-top: 40px;
+    color: #082B2B ;
+    text-align: center;
+}
+
+input{
+    font-size: 1.5em;
+}
+
+select{
+    font-size: 1.6em;
+}
+button{
+    font-size: 1.3em;}
+
+.center-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+
+.divCategori{
+    gap: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.categorie{
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100px;
+    height: 100px;
+}
+
+.imgCategorie{
+    margin: auto;
+    width: 50px;
+    height: 50px;
+}
+
+.numeCategorie{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #082B2B;
 }
