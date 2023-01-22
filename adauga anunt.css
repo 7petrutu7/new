@@ -7,8 +7,8 @@ body{
 
 
 .divForm{
-    margin: 20px auto;
-    height: 700px;
+    margin: 0px auto;
+    height: 980px;
     width: 370px;
     background-color: whitesmoke;
 }
@@ -78,4 +78,8 @@ a{
 
 .am{
     margin-right: 10px;
+}
+
+textarea{
+    resize: none;
 }
