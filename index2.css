@@ -24,6 +24,7 @@ form{
 
 input{
     margin-top: 5px;
+    height: 23px;
     width: 70%;
 }
 
@@ -51,4 +52,8 @@ button{
 .centerImgAu{
     display: flex;
     justify-content: center;
+}
+
+label{
+    font-size: 25px;
 }
