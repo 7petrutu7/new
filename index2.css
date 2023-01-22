@@ -1,11 +1,13 @@
 body{
     background-color: #082B2B;
+    height: 1000px;
+    width: 800px;
 }
 
 
 
 .divForm{
-    margin: 100px auto;
+    margin: 200px auto;
     height: 600px;
     width: 500px;
     background-color: whitesmoke;
