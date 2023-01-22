@@ -5,45 +5,7 @@ body{
     margin: 0;
 }
 
-.logo{
-    margin-top: -28px;
-    margin-left: 50px;
-    width: 180px;
-    height: 180px;
-}
 
-.e{
-    color: whitesmoke;
-}
-
-header{
-    background-color: #082B2B ;
-    margin: 0;
-    height: 150px;
-}
-
-.mai{
-    color: #EEE853;
-}
-
-h3{
-    margin-left: 70px;
-    margin-top: -70px;
-}
-
-p{margin-top: -10px;
-font-size: 16px;}
-
-.rapid{
-    color: #eee853;
-}
-
-
-.vinzi{
-    
-    margin-left: 10px;
-    color: #fff;
-}
 
 .cont{
     margin-left: auto;
@@ -248,3 +210,69 @@ a{
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.what{
+    margin-left: 570px;
+    padding-top: 220px;
+}
+
+header{
+    background-color: #082B2B ;
+    margin: 0;
+    height: 1050px;
+}
+
+
+
+.logo{
+    margin-top: -32px;
+    margin-left: -50px;
+    width: 470px;
+    height: 470px;
+}
+
+.e{
+    color: whitesmoke;
+}
+
+
+
+.mai{
+    color: #EEE853;
+}
+
+h3{
+    font-size: 70px;
+    margin-left: -100px;
+    margin-top: -169px;
+}
+
+p{
+    margin-top: -63px;
+    margin-left: -480px;
+font-size: 80px;}
+
+.rapid{
+    
+    color: #eee853;
+}
+
+
+.vinzi{
+    color: #fff;
+}
