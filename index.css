@@ -194,3 +194,47 @@ button{
     font-size: 1.5em;
     color: white;
 }
+
+footer{
+    
+    background-color: #082B2B;
+}
+
+footer p{
+    font-size: 1.2em;
+    margin: 8px 0px 0px 0px;
+    color: white;
+    text-align: center;
+}
+
+
+.alignFooter{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.copyright{
+    margin: 50px 0px 0px 0px;
+    padding-bottom: 20px;
+}
+
+.top1{
+    margin-top: 30px;
+}
+
+.imgFooter{
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.imgAlign{
+    margin: 20px;
+}
+
+.youtube{
+    width: 50px;
+}
+
+.margin{margin-right: 80px;}
