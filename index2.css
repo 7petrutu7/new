@@ -1,8 +1,68 @@
 @media screen and (max-width: 768px) {
     html {
-      height: 1000px;
-      width: 1000px;
+      height: 100vh;
+      width: 100vw;
       position: fixed;
+    }
+
+    body{
+        background-color: #082B2B;
+    }
+    
+    
+    
+    .divForm{
+        margin: 100px auto;
+        height: 1000px;
+        width: 800px;
+        background-color: whitesmoke;
+    }
+    
+    h1{
+        margin: 0;
+        text-align: center;
+        padding-top: 20px;
+        color: #082B2B;
+    }
+    
+    form{
+        text-align: center;
+    }
+    
+    input{
+        margin-top: 5px;
+        height: 23px;
+        width: 70%;
+    }
+    
+    .centerLogin{
+        margin-top: 20px;
+    }
+    
+    .divAiCreaza{
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    button{
+        font-size: 1.2em;
+        
+    }
+    
+    .imgAu{
+        margin: 0;
+        height: 200px;
+        width: 200px;
+    }
+    
+    .centerImgAu{
+        display: flex;
+        justify-content: center;
+    }
+    
+    label{
+        font-size: 25px;
     }
   }
 
