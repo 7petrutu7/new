@@ -2,7 +2,53 @@ body{
     background-color: #082B2B;
 }
 
-img{
-   
-    cursor: pointer;
+
+
+.divForm{
+    margin: 100px auto;
+    height: 600px;
+    width: 500px;
+    background-color: whitesmoke;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    color: #082B2B;
+}
+
+form{
+    text-align: center;
+}
+
+input{
+    margin-top: 5px;
+    width: 70%;
+}
+
+.centerLogin{
+    margin-top: 20px;
+}
+
+.divAiCreaza{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    font-size: 1.2em;
+    
+}
+
+.imgAu{
+    margin: 0;
+    height: 200px;
+    width: 200px;
+}
+
+.centerImgAu{
+    display: flex;
+    justify-content: center;
 }
