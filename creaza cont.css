@@ -8,7 +8,7 @@ body{
 
 .divForm{
     margin: 20px auto;
-    height: 630px;
+    height: 730px;
     width: 330px;
     background-color: whitesmoke;
 }
@@ -35,7 +35,7 @@ input{
 }
 
 .divAiCreaza{
-    margin-top: 20px;
+    margin-top: 22px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -58,4 +58,25 @@ button{
 
 label{
     font-size: 25px;
+}
+
+
+.centerlogin2{
+    display: flex;
+}
+
+.inputcheck{
+    
+    width: 100%;
+    height: 16px;
+    margin: 17px 9px 0px 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.am{
+    margin-bottom: 0;
+    margin-right: 10px;
 }
