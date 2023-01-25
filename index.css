@@ -136,8 +136,8 @@ button{
 }
 
 .imgAnunt{
-    width: 300px;
-    height: 170px;
+    width: 400px;
+    height: 220px;
 }
 
 .locatie,.pret,.stare,.accesorii{
@@ -171,7 +171,7 @@ button{
 
 
 .stare{
-    margin-top: 30px;
+    margin-top: 0px;
     color: whitesmoke;
     font-size: 1.3em;
 }
