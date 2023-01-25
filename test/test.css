@@ -1,0 +1,120 @@
+
+
+.cercle2{
+    display: flex;justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 10%;
+    background-color: red;
+    animation: round2 1s infinite alternate-reverse;
+}
+
+@keyframes round2 {
+    
+    100%{transform: rotate(860deg);}
+}
+
+@keyframes move {
+    0%{transform: translateY(-300px);}
+    
+    50%{
+        transform: translateY(400px);
+    }
+
+    100%{transform: translateY(-300px);}
+}
+
+@keyframes rotate {
+    50%{
+        transform: rotateZ(180deg);
+    }
+
+    100%{
+        transform: rotateZ(-180deg);
+    }
+}
+
+@keyframes rotate2 {
+    50%{
+        transform: rotateZ(-180deg);
+    }
+
+    100%{
+        transform: rotateZ(180deg);
+    }
+}
+
+
+
+.cercle{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    animation: move 11s infinite  alternate-reverse;
+}
+
+.violet{
+    margin-right: 50px;
+    background-color: violet;
+    animation: rotate 11s infinite alternate-reverse;
+}
+
+.brown{
+    margin-left: 10px;
+    animation: rotate2 11s infinite alternate-reverse;
+    background-color: brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{
+    font-size: 30px;
+    margin-left: 20px;
+    color: white;
+}
+.buttonsHolder{
+    margin-left: 35px;
+    margin-top: -100px;
+}
+
+.align{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+
+
+.black{
+    background-color: black;
+}
+
+.pink{
+    background-color: pink;
+}

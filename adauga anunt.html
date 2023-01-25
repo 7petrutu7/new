@@ -23,24 +23,24 @@
                     <div class="centerImgAu">
                         <a href="index.html"><img class="imgAu" src="logo/without4.png" alt=""></a>
                     </div>
-                    <form id="form">
+                    <form action="dataFromForm.html" id="form" method="get">
 
                         <div class="centerLogin">
                             <label for="Titlu">Titlu </label>
                             <br>
-                            <input required type="text" name="Titlu" >
+                            <input id="titlu" required type="text" name="Titlu" >
                         </div>
 
                         <div class="centerLogin">
                             <label for="Categorie">Categorie</label>
                             <br>
-                            <input required type="text" name="Categorie" >
+                            <input id="categorie" required type="text" name="Categorie" >
                         </div>
                         
                         <div class="centerLogin">
                             <label for="descriere">Descriere</label>
                             <br>
-                            <textarea required name="descriere" id="" cols="30" rows="7"></textarea>
+                            <textarea id="descriere" required name="descriere" id="" cols="30" rows="7"></textarea>
 
                         </div>
 
@@ -49,21 +49,21 @@
                         <div class="centerLogin">
                             <label for="pret">Pret (lei)</label>
                             <br>
-                            <input required type="text" name="pret" multiple>
+                            <input id="pret" required type="text" name="pret" multiple>
 
                         </div>
 
                         <div class="centerLogin">
                             <label for="numartelefon">Numar de telefon</label>
                             <br>
-                            <input required type="text" name="numartelefon" multiple>
+                            <input id="telefon" required type="text" name="numartelefon" multiple>
 
                         </div>
 
                         <div class="centerLogin">
                             <label for="locatie">Locatie</label>
                             <br>
-                            <input required type="text" name="locatie" multiple>
+                            <input id="locatie" required type="text" name="locatie" multiple>
 
                         </div>
 
@@ -83,7 +83,7 @@
                                 </div>
                         </div>
 
-                        <a href=""><button type="submit">Adauga</button></a>
+                        <button type="submit">Adauga</button>
                         
                         
                         
