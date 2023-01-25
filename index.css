@@ -129,7 +129,7 @@ button{
     position: relative;
     background-color: #082B2B;
     height: 400px;
-    width: 300px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
