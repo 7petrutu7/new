@@ -131,16 +131,16 @@ button{
 .anunt{
     position: relative;
     background-color: black;
-    height: 550px;
-    width: 600px;
+    height: 620px;
+    width: 750px;
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
 }
 
 .imgAnunt{
-    width: 600px;
-    height: 320px;
+    width: 750px;
+    height: 390px;
 }
 
 .locatie,.pret,.stare,.timp{
@@ -258,9 +258,12 @@ a{
 }
 
 .inima{
-    margin-left: 550px;
+    margin-left: 700px;
     margin-top: -23px;
     height: 30px;
     width: 30px;
 }
 
+.align3{
+    display: flex;
+}
