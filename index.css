@@ -12,6 +12,8 @@ img{
 
 
 header{
+
+    width: 100%;
     background-color: green;
     height: 100px;
     display: flex;
