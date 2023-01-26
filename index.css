@@ -152,6 +152,7 @@ button{
 
 .timp{
     font-size: 1.2em;
+    margin-top: -4px;
 }
 
 .numeAnunt,.locatie,.timp{
