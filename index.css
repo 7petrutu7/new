@@ -165,20 +165,20 @@ button{
 }
 
 .locatie{
-    font-size: 1em;
+    font-size: 1.1em;
     margin-bottom: 25px;
 }
 
 .pret{
     margin-bottom: 10px;
     font-weight: bold;
-    font-size: 1.4em;
+    font-size: 1.6em;
     color: #eee853;
 }
 
 
 .stare{
-    margin-top: 20px;
+    margin-top: 0px;
     color: whitesmoke;
     font-size: 1.2em;
 }
