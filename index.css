@@ -2,35 +2,41 @@ body{
     background-color: #082B2B;
 }
 
-h1{
-    margin: 5px;
-    color: #EEE853;
-}
 
 img{
+    
+    margin-left: 10px;
+    height: 100px;
     cursor: pointer;
 }
 
-.imgAlignDiv{
+
+header{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
-.textAlignCenter{
-    text-align: center;
+.img2{
+    height: 50px;
+    width: 50px;
 }
 
-.divMain{
-    margin-top: 20px;
+.right2{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    width: 100%;
-    height: 100px;
-    background-color: black;
 }
 
-h2{
-    font-size: 2em;
-    color: white;
+.marLeft{
+    margin: 0 50px 0 auto;
+}
+
+p{
+    margin: 10px 0 0 0;
+    font-size: 1.3em;
+    color: #fff853;
+}
+
+.marRight{
+    margin-right: 50px;
 }
