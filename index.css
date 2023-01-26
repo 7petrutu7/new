@@ -3,6 +3,7 @@
 
 body{
     margin: 0;
+    background-color: grey;
 }
 
 .logo{
@@ -100,6 +101,8 @@ button{
     width: 100%;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .categorie{
@@ -127,7 +130,7 @@ button{
 
 .anunt{
     position: relative;
-    background-color: #082B2B;
+    background-color: black;
     height: 450px;
     width: 400px;
     display: flex;
@@ -140,21 +143,24 @@ button{
     height: 220px;
 }
 
-.locatie,.pret,.stare,.accesorii{
+.locatie,.pret,.stare,.timp{
     text-align: start;
     font-size: 1em;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
-.numeAnunt,.locatie{
-    color: white;
+
+
+.numeAnunt,.locatie,.timp{
+    color: antiquewhite;
 }
 
 .numeAnunt{
-    margin-left: 20px;
+    font-weight: 500;
+    margin-left: 25px;
     text-align: start;
     margin-top: 15px;
-    font-size:1.4em;
+    font-size:1.3em;
     margin-bottom:40px;
 }
 
@@ -164,6 +170,7 @@ button{
 }
 
 .pret{
+    margin-bottom: 10px;
     font-weight: bold;
     font-size: 1.4em;
     color: #eee853;
@@ -250,4 +257,10 @@ a{
     color: #EEE853;
 }
 
+.inima{
+    margin-left: 350px;
+    margin-top: -23px;
+    height: 30px;
+    width: 30px;
+}
 
