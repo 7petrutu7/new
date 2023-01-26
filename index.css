@@ -149,6 +149,16 @@ button{
     margin-left: 30px;
 }
 
+.pret{
+    left: 480px;
+    top: 590px;
+    position: absolute;
+    margin-right: 80px;
+    text-align: end;
+    font-weight: bold;
+    font-size: 1.8em;
+    color: #eee853;
+}
 
 
 .numeAnunt,.locatie,.timp{
@@ -160,7 +170,7 @@ button{
     margin-left: 25px;
     text-align: start;
     margin-top: 15px;
-    font-size:1.3em;
+    font-size:1.6em;
     margin-bottom:40px;
 }
 
@@ -169,18 +179,11 @@ button{
     margin-bottom: 25px;
 }
 
-.pret{
-    margin-bottom: 10px;
-    font-weight: bold;
-    font-size: 1.4em;
-    color: #eee853;
-}
-
 
 .stare{
-    margin-top: 30px;
+    margin-top: 20px;
     color: whitesmoke;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 
