@@ -150,6 +150,9 @@ button{
 }
 
 
+.timp{
+    font-size: 1.2em;
+}
 
 .numeAnunt,.locatie,.timp{
     color: antiquewhite;
@@ -172,7 +175,7 @@ button{
 .pret{
     margin-bottom: 10px;
     font-weight: bold;
-    font-size: 1.6em;
+    font-size: 1.7em;
     color: #eee853;
 }
 
