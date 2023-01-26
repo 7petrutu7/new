@@ -149,16 +149,6 @@ button{
     margin-left: 30px;
 }
 
-.pret{
-    left: 480px;
-    top: 590px;
-    position: absolute;
-    margin-right: 80px;
-    text-align: end;
-    font-weight: bold;
-    font-size: 1.8em;
-    color: #eee853;
-}
 
 
 .numeAnunt,.locatie,.timp{
@@ -177,6 +167,13 @@ button{
 .locatie{
     font-size: 1em;
     margin-bottom: 25px;
+}
+
+.pret{
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 1.4em;
+    color: #eee853;
 }
 
 
