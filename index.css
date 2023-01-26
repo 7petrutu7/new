@@ -3,7 +3,6 @@
 
 body{
     margin: 0;
-    background-color:black;
 }
 
 .logo{
@@ -73,9 +72,7 @@ font-size: 16px;}
 }
 
 h2{
-    background-color: antiquewhite;
-    margin: 0;
-    padding: 80px 0;
+    margin: 40px 0px;
     color: #082B2B ;
     text-align: center;
 }
@@ -94,8 +91,7 @@ button{
 .center-div{
     display: flex;
     justify-content: center;
-    padding-top: 80px;
-    padding-bottom: 40px;
+    margin: 80px 0px;
 }
 
 
@@ -104,8 +100,6 @@ button{
     width: 100%;
     display: flex;
     justify-content: center;
-    flex-direction: column;
-    align-items: center;
 }
 
 .categorie{
@@ -134,16 +128,16 @@ button{
 .anunt{
     position: relative;
     background-color: #082B2B;
-    height: 620px;
-    width: 100%;
+    height: 450px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
 }
 
 .imgAnunt{
-    width: 100%;
-    height: 390px;
+    width: 400px;
+    height: 220px;
 }
 
 .locatie,.pret,.stare,.timp{
@@ -153,10 +147,6 @@ button{
 }
 
 
-.timp{
-    font-size: 1.2em;
-    margin-top: -4px;
-}
 
 .numeAnunt,.locatie,.timp{
     color: antiquewhite;
@@ -167,32 +157,32 @@ button{
     margin-left: 25px;
     text-align: start;
     margin-top: 15px;
-    font-size:1.6em;
+    font-size:1.3em;
     margin-bottom:40px;
 }
 
 .locatie{
-    font-size: 1.1em;
+    font-size: 1em;
     margin-bottom: 25px;
 }
 
 .pret{
     margin-bottom: 10px;
     font-weight: bold;
-    font-size: 1.7em;
+    font-size: 1.4em;
     color: #eee853;
 }
 
 
 .stare{
-    margin-top: 0px;
-    color: antiquewhite;
-    font-size: 1.2em;
+    margin-top: 30px;
+    color: whitesmoke;
+    font-size: 1.3em;
 }
 
 
 .exclusive, .top{
-    color: antiquewhite;
+    color: whitesmoke;
     font-weight: bold;
     padding: 10px;
     margin: auto;
@@ -264,17 +254,4 @@ a{
     color: #EEE853;
 }
 
-.inima{
-    margin-left: 700px;
-    margin-top: -244px;
-    height: 40px;
-    width: 40px;
-}
 
-.align3{
-    display: flex;
-}
-
-.background{
-    background-color: antiquewhite;
-}
