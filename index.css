@@ -3,7 +3,7 @@
 
 body{
     margin: 0;
-    background-color: grey;
+    background-color: black;
 }
 
 .logo{
@@ -130,7 +130,7 @@ button{
 
 .anunt{
     position: relative;
-    background-color: black;
+    background-color: #082B2B;
     height: 620px;
     width: 750px;
     display: flex;
