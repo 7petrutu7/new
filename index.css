@@ -289,25 +289,26 @@ button{
 
 .numeAnunt{
     font-weight: 500;
-    margin-left: 100px;
-    text-align: start;
-    margin-top: 15px;
+    text-align: center;
+    margin: 15px 0px 60px 0;
     font-size:1.8em;
-    margin-bottom:60px;
 }
 
 .locatie{
-    margin: 10px 0 0 100px;
+    text-align: center;
+    margin: 10px 0 0 0px;
     font-size: 1.4em;
 }
 
 .timp{
+    text-align: center;
     font-size: 1.4em;
-    margin: 10px 0 0 100px;
+    margin: 10px 0 0 0px;
 }
 
 .pret{
-    margin: 15px 0 0 100px;
+    text-align: center;
+    margin: 15px 0 0 0px;
     font-weight: bold;
     font-size: 1.8em;
     color: white;
@@ -315,7 +316,8 @@ button{
 
 
 .stare{
-    margin: 0 0 0 100px;
+    text-align: center;
+    margin: 0 0 0 0px;
     color: whitesmoke;
     font-size: 1.6em;
 }
