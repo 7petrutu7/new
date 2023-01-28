@@ -128,8 +128,8 @@ header{
 
 
 
-    height: 450px;
-    width: 400px;
+    height: 650px;
+    width: 600px;
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
@@ -139,6 +139,10 @@ header{
 
 
 
+.imgAnunt{
+    width: 600px;
+    height: 420px;
+}
 
 
 
@@ -267,10 +271,6 @@ button{
 
 
 
-.imgAnunt{
-    width: 400px;
-    height: 220px;
-}
 
 .locatie,.pret,.stare,.timp{
     text-align: start;
