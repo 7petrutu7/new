@@ -3,7 +3,7 @@
 
 body{
     margin: 0;
-    background-image: url("social/IHwmF7.jpg");
+    background-color: grey;
 }
 
 .logo{
@@ -152,16 +152,20 @@ button{
     text-align: start;
     margin-top: 15px;
     font-size:1.3em;
-    margin-bottom:40px;
+    margin-bottom:60px;
 }
 
 .locatie{
+    margin: 5px 0 0 28px;
     font-size: 1em;
-    margin-bottom: 25px;
+}
+
+.timp{
+    margin: 5px 0 0 28px;
 }
 
 .pret{
-    margin-bottom: 10px;
+    margin: 10px 0 0 28px;
     font-weight: bold;
     font-size: 1.4em;
     color: #eee853;
@@ -169,7 +173,7 @@ button{
 
 
 .stare{
-    margin-top: 30px;
+    margin: 0 0 0 28px;
     color: whitesmoke;
     font-size: 1.3em;
 }
