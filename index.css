@@ -7,10 +7,9 @@ body{
 }
 
 .logo{
-    margin-top: -28px;
-    margin-left: 50px;
-    width: 180px;
-    height: 180px;
+    margin-left: 40px;
+    width: 120px;
+    height: 80px;
 }
 
 
@@ -23,18 +22,20 @@ header{
 
 
 p{
-font-size: 18px;}
+font-size: 22px;
+}
 
 .rapid{
-    margin-top: -18px;
-    margin-left: 67px;
+    margin-top: 0px;
+    margin-left: 17px;
     color: #eee853;
 }
 
 
 .vinzi{
-    margin-top: -59px;
-    margin-left: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 10px;
     color: #fff;
 }
 
