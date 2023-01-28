@@ -127,7 +127,6 @@ header{
 
 
 
-
     height: 800px;
     width: 800px;
     display: flex;
@@ -290,7 +289,7 @@ button{
 
 .numeAnunt{
     font-weight: 500;
-    margin-left: 25px;
+    margin-left: 40px;
     text-align: start;
     margin-top: 15px;
     font-size:1.8em;
@@ -298,17 +297,17 @@ button{
 }
 
 .locatie{
-    margin: 10px 0 0 28px;
+    margin: 10px 0 0 43px;
     font-size: 1.4em;
 }
 
 .timp{
     font-size: 1.4em;
-    margin: 10px 0 0 28px;
+    margin: 10px 0 0 43px;
 }
 
 .pret{
-    margin: 15px 0 0 28px;
+    margin: 15px 0 0 43px;
     font-weight: bold;
     font-size: 1.8em;
     color: white;
@@ -316,7 +315,7 @@ button{
 
 
 .stare{
-    margin: 0 0 0 28px;
+    margin: 0 0 0 43px;
     color: whitesmoke;
     font-size: 1.6em;
 }
