@@ -267,11 +267,14 @@ button{
     text-align: center;
     font-size: 1.3em;
     font-weight: bold;
+    margin-right: 80px;
     
 }
 
 
-
+.mercedess{
+    margin-left: -15px;
+}
 
 .locatie,.pret,.stare,.timp{
     text-align: start;
