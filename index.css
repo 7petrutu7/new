@@ -128,7 +128,7 @@ header{
 
 
 
-    height: 750px;
+    height: 800px;
     width: 800px;
     display: flex;
     flex-direction: column;
@@ -293,24 +293,24 @@ button{
     margin-left: 25px;
     text-align: start;
     margin-top: 15px;
-    font-size:1.5em;
+    font-size:1.8em;
     margin-bottom:60px;
 }
 
 .locatie{
     margin: 5px 0 0 28px;
-    font-size: 1.1em;
+    font-size: 1.4em;
 }
 
 .timp{
-    font-size: 1.1em;
+    font-size: 1.4em;
     margin: 5px 0 0 28px;
 }
 
 .pret{
     margin: 10px 0 0 28px;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.8em;
     color: white;
 }
 
@@ -318,7 +318,7 @@ button{
 .stare{
     margin: 0 0 0 28px;
     color: whitesmoke;
-    font-size: 1.3em;
+    font-size: 1.6em;
 }
 
 
