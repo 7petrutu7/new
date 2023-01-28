@@ -1,13 +1,64 @@
 
+.alb{
+    background-color: whitesmoke;
+    
+    
+}
+
+.intunecat{
+    
+    background-color: black;
+}
+
+.displayOff{
+    display: none;
+}
+
+.displayOn{
+    display: block;
+}
+
+
+
+.buttonZi, .buttonNoapte{
+    top: auto;
+    left: auto;
+    right: 10px;
+    bottom: 15px;
+    position: fixed;
+}
+
+
+.modZi{
+    padding: 1px 27px;
+}
+
+
+
+.textAlb{
+    color: whitesmoke;
+}
+
+.textNegru{
+    color: black;
+}
+
+
+
+
+
+
+
+
 
 
 body{
 
 
-    
+    position: relative;
     margin: 0;
 
-    background-color: black;
+    background-color: whitesmoke;
 
 
   
@@ -153,9 +204,14 @@ font-size: 22px;
     display: flex;
 }
 
+
+body .margin2{
+    font-size: 2em;
+    margin: 100px 0px;
+}
+
 h2{
     margin: 40px 0px;
-    color: whitesmoke ;
     text-align: center;
 }
 
@@ -204,7 +260,7 @@ button{
     text-align: center;
     font-size: 1.3em;
     font-weight: bold;
-    color: whitesmoke;
+    
 }
 
 
