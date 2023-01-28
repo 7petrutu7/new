@@ -293,23 +293,24 @@ button{
     margin-left: 25px;
     text-align: start;
     margin-top: 15px;
-    font-size:1.3em;
+    font-size:1.5em;
     margin-bottom:60px;
 }
 
 .locatie{
     margin: 5px 0 0 28px;
-    font-size: 1em;
+    font-size: 1.1em;
 }
 
 .timp{
+    font-size: 1.1em;
     margin: 5px 0 0 28px;
 }
 
 .pret{
     margin: 10px 0 0 28px;
     font-weight: bold;
-    font-size: 1.4em;
+    font-size: 1.5em;
     color: white;
 }
 
