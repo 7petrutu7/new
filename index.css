@@ -128,8 +128,8 @@ header{
 
 
 
-    height: 650px;
-    width: 600px;
+    height: 750px;
+    width: 800px;
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
@@ -140,8 +140,8 @@ header{
 
 
 .imgAnunt{
-    width: 600px;
-    height: 420px;
+    width: 800px;
+    height: 520px;
 }
 
 
