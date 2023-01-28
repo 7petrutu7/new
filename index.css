@@ -13,9 +13,6 @@ body{
     height: 180px;
 }
 
-.e{
-    color: whitesmoke;
-}
 
 header{
     background-color: #082B2B ;
@@ -23,26 +20,21 @@ header{
     height: 150px;
 }
 
-.mai{
-    color: #EEE853;
-}
 
-h3{
-    margin-left: 70px;
-    margin-top: -70px;
-}
 
-p{margin-top: -10px;
-font-size: 16px;}
+p{
+font-size: 18px;}
 
 .rapid{
+    margin-top: -18px;
+    margin-left: 67px;
     color: #eee853;
 }
 
 
 .vinzi{
-    
-    margin-left: 10px;
+    margin-top: -59px;
+    margin-left: 60px;
     color: #fff;
 }
 
