@@ -152,6 +152,7 @@ a{
 
 
 .descriere{
+    font-weight: bold;
     text-align: start;
     color: rgb(0, 47, 52);
     font-size:2em;
