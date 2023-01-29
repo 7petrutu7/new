@@ -84,11 +84,18 @@ a{
     color: antiquewhite;
 }
 
-.garantie, .livrare, .firmaSauPersoanaFizica{
+.garantie, .livrare, .firmaSauPersoanaFizica, .culori{
     text-align: end;
     color: antiquewhite;
     font-size: 32px;
     
+}
+
+.inStoc{
+    color:antiquewhite;
+    font-size: 32px;
+    margin: -10px 0 0 20px;
+    padding-bottom: 20px;
 }
 
 .firmaSauPersoanaFizica{
@@ -100,6 +107,9 @@ a{
     
 }
 
+.culori{
+    margin: 10px 20px 0 0px;
+}
 
 
 .locatie{
