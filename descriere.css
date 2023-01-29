@@ -74,6 +74,96 @@ a{
 
 .containerImg{
     margin-top: 50px;
+    
+}
+
+.displayFlexJustifyCenter{
     display: flex;
     justify-content: center;
+}
+
+.locatie,.pret,.stare,.timp{
+    text-align: start;
+    font-size: 1em;
+    margin-left: 30px;
+}
+
+
+
+.locatie,.timp{
+    color: antiquewhite;
+}
+
+
+
+.locatie{
+    text-align: center;
+    margin: 10px 0 0 0px;
+    font-size: 1.4em;
+}
+
+.timp{
+    text-align: center;
+    font-size: 1.4em;
+    margin: 10px 0 0 0px;
+}
+
+.pret{
+    text-align: center;
+    margin: 15px 0 0 0px;
+    font-weight: bold;
+    font-size: 1.8em;
+    color: antiquewhite;
+}
+
+
+.stare{
+    text-align: center;
+    margin: 0 0 0 0px;
+    color: antiquewhite;
+    font-size: 1.6em;
+}
+
+.numeAnunt{
+    padding: 0px 10px 0px 10px;
+    font-weight: 500;
+    margin: 15px 0px 60px 0;
+    font-size:1.8em;
+    color: antiquewhite;
+    text-align: center;
+}
+
+
+
+.divAnunturi{
+    gap: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.divAnunturi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.anunt{
+    
+    background-color:#020024 ;
+    height: 800px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+
+
+
+.imgAnunt{
+    width: 800px;
+    height: 520px;
 }

@@ -112,21 +112,7 @@ header{
 
 .anunt{
     
-    
     background-color:#020024 ;
-
-
-
-
-
-
-
-
-
-
-
-
-
     height: 800px;
     width: 800px;
     display: flex;
@@ -326,25 +312,9 @@ button{
 }
 
 
-.exclusive, .top{
-    color: whitesmoke;
-    font-weight: bold;
-    padding: 10px;
-    position: absolute;
-}
-
-.exclusive{
-    background-color: salmon;
-}
-.top{
-    background-color: goldenrod;
-}
 
 
-.accesorii{
-    font-size: 1.5em;
-    color: white;
-}
+
 
 
 
