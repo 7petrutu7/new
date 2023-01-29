@@ -84,7 +84,7 @@ a{
     color: antiquewhite;
 }
 
-.garantie, .tehnic, .firmaSauPersoanaFizica{
+.garantie, .livrare, .firmaSauPersoanaFizica{
     text-align: end;
     color: antiquewhite;
     font-size: 32px;
@@ -95,7 +95,7 @@ a{
     margin: 0 20px 0 0;
 }
 
-.garantie,.tehnic{
+.garantie,.livrare{
     margin: 10px 20px 0 0px;
     
 }
