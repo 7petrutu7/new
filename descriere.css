@@ -383,9 +383,9 @@ a{
 }
 
 .inima{
-    top: 500px;
-    left: auto;
-    right: 0;
+    top: 680px;
+    left: 400px;
+    right: auto;
     position: absolute;
     height: 50px;
     width: 50px;
