@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: whitesmoke;
+    background-color: black;
 }
 
 
@@ -382,4 +382,11 @@ a{
     color: black;
 }
 
-
+.inima{
+    top: 500px;
+    left: auto;
+    right: 0;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+}
