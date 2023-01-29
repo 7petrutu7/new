@@ -401,13 +401,3 @@ a{
     width: 120px;
 }
 
-.report{
-    font-weight: bold;
-    top: 1320px;
-    left: auto;
-    right: 5px;
-    font-size: 18px;
-    position: absolute;
-    color: brown;
-   border-bottom: 1px solid red;
-}
