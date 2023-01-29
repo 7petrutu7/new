@@ -72,14 +72,8 @@ a{
     height: 700px;
 }
 
-.containerVanzator{
-    height: 500px;
-    width: 250px;
-    border: 1px solid;
-}
-
-.containerImgSiVanzator{
+.containerImg{
     margin-top: 50px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
