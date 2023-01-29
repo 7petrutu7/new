@@ -152,7 +152,7 @@ a{
 
 .anunt{
     
-    margin-top: 50px;
+    margin: 50px 0px;
     background-color:#020024 ;
     width: 850px;
     display: flex;
@@ -223,7 +223,7 @@ a{
 }
 
 .despreVanzator{
-    text-align: start;
+    text-align: center;
     font-weight: bold;
     color: antiquewhite;
     font-size:2em;
@@ -232,7 +232,7 @@ a{
 
 .containerVanzator{
     display: flex;
-    justify-content: start;
+    justify-content: center;
 }
 
 .numeVanzator ,.membru{
@@ -246,7 +246,8 @@ a{
 
 .veziToateAnunturile{
     margin-left: 20px;
-    text-align: start;
+    padding-bottom: 20px;
+    text-align: center;
     font-size: 28px;
     color: antiquewhite;
 }
