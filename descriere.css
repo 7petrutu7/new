@@ -382,7 +382,7 @@ a{
     color: black;
 }
 
-.inima{
+.inimaAlba, .inimaRosie{
     
     top: 460px;
     left: auto;
@@ -390,4 +390,12 @@ a{
     position: absolute;
     height: 50px;
     width: 50px;
+}
+
+
+.inimaRosie{
+    top: 440px;
+    right: -25px;
+    height: 100px;
+    width: 120px;
 }
