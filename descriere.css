@@ -78,38 +78,40 @@ a{
     justify-content: center;
 }
 
-.locatie,.pret,.stare,.timp{
-    margin-left: 20px;
-    text-align: center;
+.locatie,.pret,.stare,.timp,.numeAnunt{
+    text-align: start;
     color: antiquewhite;
 }
 
 
 
 .locatie{
-    margin: 10px 0 0 0px;
+    margin: 10px 0 0 20px;
     font-size: 1.4em;
 }
 
 .timp{
     font-size: 1.4em;
-    margin: 10px 0 0 0px;
+    margin: 10px 0 0 20px;
+    padding-bottom: 20px;
 }
 
 .pret{
-    margin: 15px 0 0 0px;
+    margin: 15px 0 0 20px;
     font-weight: bold;
     font-size: 1.8em;
 }
 
 
 .stare{
-    margin: 0 0 0 0px;
+    margin: 0 0 0 20px;
     font-size: 1.6em;
 }
 
 
-
+br{
+    margin: 10px 0px;
+}
 
 
 .divAnunturi{
@@ -141,12 +143,11 @@ a{
 }
 
 .numeAnunt{
+    text-align: center;
     font-size:1.8em;
     margin: 15px 0px 60px 0;
-    padding: 0px 10px 0px 10px;
+    padding: 0px 10px 0px 20px;
     font-weight: 500;
-    color: antiquewhite;
-    text-align: center;
 }
 
 
@@ -163,7 +164,7 @@ a{
     text-align: start;
     color: #000;
     padding: 0px 20px;
-    font-size: 1.5em;
+    font-size: 1.8em;
     margin-top: 10px;
 }
 
