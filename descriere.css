@@ -135,12 +135,12 @@ a{
 
 .anunt{
     
+    margin-top: 50px;
     background-color:#020024 ;
     height: 800px;
-    width: 950px;
+    width: 850px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 50px;
     position: relative;
 }
 
@@ -148,6 +148,6 @@ a{
 
 
 .imgAnunt{
-    width: 950px;
+    width: 850px;
     height: 520px;
 }
