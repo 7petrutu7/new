@@ -334,3 +334,52 @@ a{
     margin: 0 50px 0 0;
     color: #EEE853;
 }
+
+
+
+/* mod zi / noapte */
+
+
+.alb{
+    background-color: whitesmoke;
+    
+    
+}
+
+.intunecat{
+    
+    background-color: black;
+}
+
+.displayOff{
+    display: none;
+}
+
+.displayOn{
+    display: block;
+}
+
+
+
+.buttonZi, .buttonNoapte{
+    right: 10px;
+    bottom: 15px;
+    position: fixed;
+}
+
+
+.modZi{
+    padding: 1px 27px;
+}
+
+
+
+.textAlb{
+    color: antiquewhite;
+}
+
+.textNegru{
+    color: black;
+}
+
+
