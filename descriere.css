@@ -125,7 +125,7 @@ a{
 }
 
 .pret{
-    padding-bottom: 20px;
+    padding-bottom: 50px;
     text-align: center;
     margin: 15px 0 0 0;
     font-weight: bold;
@@ -394,8 +394,22 @@ a{
 
 
 .inimaRosie{
-    top: 440px;
-    right: -25px;
-    height: 100px;
+    top: 445px;
+    bottom: 0;
+    right: -30px;
+    height: 80px;
+    width: 120px;
+}
+
+.raporteaza{
+    border: 1px solid;
+    top: 900px;
+    left: auto;
+    right: 0;
+    position: absolute;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    height: 40px;
     width: 120px;
 }
