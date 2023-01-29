@@ -81,7 +81,7 @@ a{
 
 .locatie,.pret,.stare,.timp,.numeAnunt{
     text-align: start;
-    color: rgb(0, 47, 52);
+    color: antiquewhite;
 }
 
 
@@ -103,7 +103,6 @@ a{
     margin: 15px 0 0 20px;
     font-weight: bold;
     font-size: 2em;
-    color: rgb(0, 47, 52);
 }
 
 
@@ -128,7 +127,7 @@ a{
 .anunt{
     
     margin-top: 50px;
-    background-color:white ;
+    background-color:#020024 ;
     width: 850px;
     display: flex;
     flex-direction: column;
@@ -143,12 +142,12 @@ a{
 }
 
 .numeAnunt{
-    font-size: 2em;
-    color: rgb(0, 47, 52);
     font-weight: bold;
     text-align: center;
+    font-size:2em;
     margin: 15px 0px 60px 0;
     padding: 0px 10px 0px 20px;
+    font-weight: bold;
 }
 
 
