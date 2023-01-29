@@ -111,7 +111,7 @@ a{
 }
 
 
-main .descriereDiv p{
+main p{
     margin: 10px 0px;
 }
 
@@ -156,7 +156,7 @@ main .descriereDiv p{
 
 .descriere{
     text-align: start;
-    color: #000;
+    color: #020024;
     font-size:1.5em;
     margin: 30px 0px 30px 20px;
 }
@@ -166,11 +166,12 @@ main .descriereDiv p{
     font-weight: 100;
     text-align: start;
     color: #000;
-    padding: 0px 144px 0px 20px;
-    font-size: 2em;
+    padding: 0px 80px 0px 20px;
+    font-size: 1.8em;
     margin-top: 10px;
+
 }
 
 .descriereDiv{
-    background-color: whitesmoke;
+    background-color: white;
 }
