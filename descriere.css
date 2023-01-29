@@ -84,6 +84,22 @@ a{
     color: antiquewhite;
 }
 
+.garantie, .tehnic, .firmaSauPersoanaFizica{
+    text-align: end;
+    color: antiquewhite;
+    font-size: 32px;
+    
+}
+
+.firmaSauPersoanaFizica{
+    margin: 0 20px 0 0;
+}
+
+.garantie,.tehnic{
+    margin: 10px 20px 0 0px;
+    
+}
+
 
 
 .locatie{
@@ -100,7 +116,7 @@ a{
 .pret{
     padding-bottom: 20px;
     text-align: center;
-    margin: 15px 0 0 20px;
+    margin: 15px 0 0 0;
     font-weight: bold;
     font-size: 2em;
 }
@@ -172,4 +188,9 @@ a{
 
 .descriereDiv{
     background-color: white;
+}
+
+.specificatii{
+    display: flex;
+    justify-content: space-between;
 }
