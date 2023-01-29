@@ -273,3 +273,63 @@ a{
     height: 70px;
     width: 49%;
 }
+
+
+footer{
+
+    background-color: #020024;
+
+}
+
+footer p{
+    font-size: 1.2em;
+    margin: 20px 0px 0px 0px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+.alignFooter{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.copyright{
+    margin: 50px 0px 0px 0px;
+    padding-bottom: 20px;
+}
+
+.top1{
+    margin-top: 30px;
+}
+
+.imgFooter{
+    margin-left: 20px;
+    width: 30px;
+    height: 30px;
+}
+
+.imgAlign{
+    margin: 30px;
+}
+
+.youtube{
+    width: 50px;
+}
+
+.margin{margin-right: 80px;}
+.white{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: #EEE853;
+}
+
+.jos{
+    text-align: center;
+    margin: 0 50px 0 0;
+    color: #EEE853;
+}
