@@ -209,12 +209,17 @@ a{
     background-color:#020024;
 }
 
+.imgVanzatorDiv{
+    padding-bottom: 20px;
+}
+
 .imgVanzator{
     border-radius: 50%;
     margin-top: 10px;
-    margin-left: 10px;
-    height: 100px;
-    width: 100px;
+    margin-left: 30px;
+    height: 170px;
+    width: 170px;
+    
 }
 
 .despreVanzator{
