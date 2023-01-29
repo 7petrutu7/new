@@ -48,3 +48,10 @@ numeCategorie.forEach((element) => {
     body.classList.remove("intunecat")
     body.classList.add("alb")
 })
+
+
+const divAnunturi = document.getElementById("divAnunturi")
+
+divAnunturi.addEventListener("dblclick", function(){
+  
+})
