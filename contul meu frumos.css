@@ -421,8 +421,10 @@ main{
 .meniuP{
     font-size: 30px;
     color: teal;
-    width: 300px;
+    width: 280px;
     height: 60px;
     cursor: pointer;
     margin-bottom: 500px;
 }
+
+.mic{width: 220px;}
