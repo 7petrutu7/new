@@ -513,19 +513,19 @@ span{
 
 .selecteazaToateAnunturileDiv{
     margin-bottom: -35px;
-    margin-left: 150px;
+    margin-left: 120px;
 }
 
 .check{
-    height: 20px;
-    width: 20px;
+    height: 40px;
+    width: 40px;
     position: absolute;
     top: 760px;
     bottom: 0;
-    left: 150px;
+    left: 120px;
     right: 0;
 }
 .c1{
-    height: 15px;
-    width: 20px;
+    height: 40px;
+    width: 40px;
 }
