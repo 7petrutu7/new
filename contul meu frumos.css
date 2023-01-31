@@ -522,10 +522,10 @@ span{
 }
 
 .check{
-    height: 33px;
-    width: 33px;
+    height: 40px;
+    width: 40px;
     position: absolute;
-    top: 770px;
+    top: 760px;
     bottom: 0;
     left: 70px;
     right: 0;
