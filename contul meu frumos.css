@@ -408,6 +408,7 @@ a{
 }
 
 .meniu{
+    
     display: flex;
     justify-content: center;
     margin: 40px 0px;
@@ -416,6 +417,7 @@ a{
 
 
 .butonMeniu, .butonMeniu2{
+    height: 100px;
     width: 250px;
     border: 1px solid white;
     background-color: #020024;
@@ -431,7 +433,7 @@ a{
 
 
 .butonMeniu2{
-    height: 50px;
+    height: 100px;
 }
 
 .membru, .numeVanzator{
