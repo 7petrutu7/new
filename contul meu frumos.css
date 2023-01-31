@@ -402,48 +402,22 @@ a{
     width: 120px;
 }
 
-.imgProfil{
-    border-radius: 50%;
-    height: 120px;
-    width: 120px;
+.anunturileMele{
+    text-align: center;
+    font-size: 35px;
 }
 
-
-
-.meniuDiv{
+.meniu{
     display: flex;
-    justify-content: space-around;
-    margin:100px 0px 200px 0px;
+    justify-content: center;
 }
 
-.meniuP{
+
+
+.butonMeniu{
+    width: 160px;
+    border: 1px solid white;
     background-color: #020024;
-    font-size: 27px;
     color: white;
-    width: 220px;
-    height: 60px;
-    cursor: pointer;
-    border: 1px solid grey;
-    
-}
-
-
-
-.meniuDiv2{display: flex;
-justify-content: center;
-
-}
-
-.meniuP2{
-    color:#020024;
-    background-color: white;
-    font-size: 23px;
-    margin-bottom: 500px;
-    width: 200px;
-    margin: 30px 0 300px 0px;
-    
-}
-
-.numeVanzator, .membru{
-    color: #020024;
+    font-size: 25px;
 }
