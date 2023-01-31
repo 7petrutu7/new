@@ -146,6 +146,7 @@ a{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding-bottom: 100px;
 }
 
 
@@ -154,26 +155,23 @@ a{
     
     margin: 50px 0px;
     background-color:#020024 ;
-    width: 850px;
+    width: 680px;
+    height: 250px;
     display: flex;
-    flex-direction: column;
-    position: relative;
+    flex-direction: row;
 }
 
 
 
 .imgAnunt{
-    width: 850px;
-    height: 520px;
+    width: 350px;
+    height: 250px;
 }
 
 .numeAnunt{
-    font-weight: bold;
+    color: #020024;
     text-align: center;
     font-size:2em;
-    margin: 15px 0px 60px 0;
-    padding: 0px 10px 0px 20px;
-    font-weight: bold;
 }
 
 
@@ -458,4 +456,53 @@ button{
 .top{
     background-color: #020024;
     margin: 20px 0px;
+}
+
+.active{
+    margin: 0 0 20px 0;
+}
+
+.anunturiActive{
+    display: flex;
+    width: 700px;
+    height: 300px;
+    background-color: #020024;
+}
+
+.imgAnunt{
+    height: 300px;
+}
+
+.pActive{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.pDiv{
+    margin-left: 80px;
+}
+.first2{
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.first{
+    padding-bottom: 10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.butoane{
+    margin-top: -10px;
+    display: flex;
+}
+
+.b1{
+    color: #020024;
+    font-size: 20px;
+    font-weight: 600;
+    height: 50px;
+    width: 350px;
 }
