@@ -509,8 +509,11 @@ button{
 }
 
 span{
-    font-size: 30px;
+    font-size: 40px;
+
 }
+
+
 
 .selecteazaToateAnunturileDiv{
     margin-top: 35px;
@@ -519,8 +522,8 @@ span{
 }
 
 .check{
-    height: 32px;
-    width: 32px;
+    height: 30px;
+    width: 30px;
     position: absolute;
     top: 800px;
     bottom: 0;
@@ -528,6 +531,6 @@ span{
     right: 0;
 }
 .c1{
-    height: 32px;
-    width: 32px;
+    height: 30px;
+    width: 30px;
 }
