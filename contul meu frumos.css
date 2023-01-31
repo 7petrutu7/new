@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: black;
+    background-color: white;
 }
 
 
@@ -409,22 +409,41 @@ a{
 }
 
 
-main{
-    background-color: teal;
-}
 
 .meniuDiv{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    margin:100px 0px 200px 0px;
 }
 
 .meniuP{
-    font-size: 30px;
-    color: teal;
-    width: 280px;
+    background-color: #020024;
+    font-size: 27px;
+    color: white;
+    width: 220px;
     height: 60px;
     cursor: pointer;
-    margin-bottom: 500px;
+    border: 1px solid grey;
+    
 }
 
-.mic{width: 244px;}
+
+
+.meniuDiv2{display: flex;
+justify-content: center;
+
+}
+
+.meniuP2{
+    color:#020024;
+    background-color: white;
+    font-size: 23px;
+    margin-bottom: 500px;
+    width: 200px;
+    margin: 30px 0 300px 0px;
+    
+}
+
+.numeVanzator, .membru{
+    color: #020024;
+}
