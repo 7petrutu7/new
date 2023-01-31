@@ -498,6 +498,7 @@ button{
 .butoane{
     margin-top: -10px;
     display: flex;
+    padding-bottom: 300px;
 }
 
 .b1{
