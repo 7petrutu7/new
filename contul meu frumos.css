@@ -514,7 +514,8 @@ span{
 
 .selecteazaToateAnunturileDiv{
     margin-top: 35px;
-    margin-left: 120px;
+    margin-left: 90px;
+    padding-bottom: 25px;
 }
 
 .check{
@@ -523,7 +524,7 @@ span{
     position: absolute;
     top: 760px;
     bottom: 0;
-    left: 120px;
+    left: 90px;
     right: 0;
 }
 .c1{
