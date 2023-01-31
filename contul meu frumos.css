@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: white;}
+    background-color: whitesmoke;}
 
 
 /* Header Start */
@@ -402,7 +402,7 @@ a{
 }
 
 .anunturileMele{
-    margin: 20px 0px;
+    
     text-align: center;
     font-size: 35px;
 }
@@ -410,7 +410,7 @@ a{
 .meniu{
     display: flex;
     justify-content: center;
-    margin-bottom: 300px;
+    margin: 40px 0px;
 }
 
 
@@ -426,7 +426,7 @@ a{
 .meniu2{
     display: flex;
     justify-content: center;
-    margin-bottom: 20px;
+    margin: 40px 0px;
 }
 
 
@@ -435,10 +435,25 @@ a{
 }
 
 .membru, .numeVanzator{
-    color: #020024;
+    color: white;
 }
 
 .containerVanzator{
     justify-content: center;
     padding: 40px 0px;
+}
+
+button{
+    cursor: pointer;
+}
+
+
+.contulMeu{
+    text-align: center;
+    color: white;
+}
+
+.top{
+    background-color: #020024;
+    margin: 20px 0px;
 }
