@@ -140,10 +140,8 @@
 
 
 .buttonZi, .buttonNoapte{
-    top: auto;
-    left: 380px;
-    bottom: 0px;
-    position: relative;
+    justify-content: center;
+    margin-left: 390px;
 }
 
 
