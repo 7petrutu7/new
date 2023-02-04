@@ -384,20 +384,16 @@ a{
 
 .inimaAlba, .inimaRosie{
     
-    top: 460px;
+    top: 450px;
     left: auto;
     right: 5px;
     position: absolute;
-    height: 50px;
-    width: 50px;
+    height: 70px;
+    width: 70px;
 }
 
 
-.inimaRosie{
-    top: 445px;
-    bottom: 0;
-    right: -30px;
-    height: 80px;
-    width: 120px;
+.inimaAlba{
+    right:5px;
 }
 
