@@ -477,3 +477,23 @@ a{
     margin: 0 50px 0 0;
     color: #EEE853;
 }
+
+.inimaAlba, .inimaRosie{
+    
+    top: 460px;
+    left: auto;
+    right: 5px;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+}
+
+
+.inimaRosie{
+    top: 445px;
+    bottom: 0;
+    right: -30px;
+    height: 80px;
+    width: 120px;
+}
+
