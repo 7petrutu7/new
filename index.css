@@ -57,7 +57,10 @@
 }
 
 .auto{
-    margin-left: 10px;
+    margin-top: -15px;
+    margin-left: -10px;
+    height: 140px;
+    width: 140px;
 }
 
 .padding{
