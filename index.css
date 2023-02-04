@@ -480,20 +480,24 @@ a{
 
 .inimaAlba, .inimaRosie{
     
-    top: 460px;
+    top: 430px;
     left: auto;
     right: 5px;
     position: absolute;
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
 }
 
 
+.inimaAlba{
+    right:15px;
+}
+
 .inimaRosie{
-    top: 445px;
+    top: 405px;
     bottom: 0;
-    right: -30px;
-    height: 80px;
-    width: 120px;
+    right: -42px;
+    height: 140px;
+    width: 200px;
 }
 
