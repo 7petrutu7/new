@@ -484,20 +484,20 @@ a{
     left: auto;
     right: 5px;
     position: absolute;
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 
 
 .inimaAlba{
-    right:15px;
+    right:5px;
 }
 
 .inimaRosie{
     top: 405px;
     bottom: 0;
-    right: -42px;
-    height: 140px;
-    width: 200px;
+    right: -45px;
+    height: 130px;
+    width: 180px;
 }
 
