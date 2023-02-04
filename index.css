@@ -452,8 +452,8 @@ footer p{
 
 .imgFooter{
     margin-left: 20px;
-    width: 60px;
-    height: 60px;
+    width: 30px;
+    height: 30px;
 }
 
 .imgAlign{
@@ -461,7 +461,9 @@ footer p{
 }
 
 .youtube{
-    width: 50px;
+    margin-bottom: -2px;
+    height: 36px;
+    width: 60px;
 }
 
 .margin{margin-right: 80px;}
