@@ -1,4 +1,69 @@
 
+.categorie{
+    margin: 20px;
+}
+
+
+
+.categoriiPrincipaleDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.imgCategorieDiv{
+    margin-left: 40px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.imgCategorie{
+   
+    height: 100px;
+    width: 100px;
+}
+
+.imgImobiliare{
+    height: 170px;
+    width: 170px;
+    margin-left: -35px;
+    margin-top: -40px;
+}
+
+.pImobiliare {
+    font-size: 20px;
+    margin-left: 76px;
+}
+
+.pAuto{
+    color: #022;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.pDiv{
+    margin-left: 20px;
+    text-align: center;
+}
+
+.imobiliare{
+    margin-left: 25px;
+}
+
+
+
+.padding{
+    padding: 20px;
+}
+
+
+
+
+
+
+
 .alb{
     background-color: whitesmoke;
     
@@ -223,11 +288,15 @@ button{
 }
 
 
-.divCategori, .divAnunturi{
+ .divAnunturi{
     gap: 10px;
     width: 100%;
     display: flex;
     justify-content: center;
+}
+
+.flex{
+    display: flex;
 }
 
 .divAnunturi{
@@ -236,21 +305,8 @@ button{
     align-items: center;
 }
 
-.categorie{
-    gap: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 100px;
-    height: 100px;
-}
 
-.imgCategorie{
-    width: 50px;
-    height: 50px;
-}
-
-.numeCategorie, .numeAnunt{
+ .numeAnunt{
     margin-top: 10px;
     text-align: center;
     font-size: 1.3em;
