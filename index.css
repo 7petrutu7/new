@@ -119,7 +119,7 @@
 
 
 .alb{
-    background-color: grey;
+    background-color: whitesmoke;
     
     
 }
@@ -153,11 +153,11 @@
 
 
 .textAlb{
-    color: antiquewhite;
+    color: white;
 }
 
 .textNegru{
-    color: whitesmoke;
+    color: rgb(0, 47, 52);
 }
 
 
