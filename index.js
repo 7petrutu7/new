@@ -3,7 +3,7 @@ const modZi = document.getElementById("modZi")
 const divZi = document.getElementById("divZi")
 const modNoapte = document.getElementById("modNoapte")
 const divNoapte = document.getElementById("divNoapte")
-const numeCategorie = document.querySelectorAll(".numeCategorie")
+const numeCategorie = document.querySelectorAll(".pAuto")
 
 modNoapte.addEventListener("click", function(){
     divNoapte.classList.add("displayOff")
