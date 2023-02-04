@@ -32,7 +32,7 @@
 .imgImobiliare{
     height: 190px;
     width: 190px;
-    margin-left: -45px;
+    margin-left: -35px;
     margin-top: -50px;
 }
 
@@ -85,6 +85,7 @@
 
 .electronice3{
     margin-top: 17px;
+    margin-left: 10px;
 }
 
 .sport{
