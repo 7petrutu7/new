@@ -82,18 +82,18 @@ a{
 
 .locatie,.pret,.stare,.timp,.numeAnunt{
     text-align: start;
-    color: antiquewhite;
+    color: white;
 }
 
 .garantie, .livrare, .firmaSauPersoanaFizica, .culori{
     text-align: end;
-    color: antiquewhite;
+    color: white;
     font-size: 32px;
     
 }
 
 .inStoc{
-    color:antiquewhite;
+    color:white;
     font-size: 32px;
     margin: -10px 0 0 20px;
     padding-bottom: 20px;
@@ -226,7 +226,7 @@ a{
 .despreVanzator{
     text-align: center;
     font-weight: bold;
-    color: antiquewhite;
+    color: white;
     font-size:2.4em;
     margin: 30px 0px 30px 20px;
 }
@@ -238,7 +238,7 @@ a{
 
 .numeVanzator ,.membru{
     font-size: 24px;
-    color: antiquewhite;
+    color: white;
 }
 
 .textVanzatorDiv{
@@ -250,7 +250,7 @@ a{
     padding-bottom: 20px;
     text-align: center;
     font-size: 32px;
-    color: antiquewhite;
+    color: white;
     font-weight: bold;
 }
 
@@ -258,7 +258,7 @@ a{
 
 .suna{
     font-weight: bold;
-    color: antiquewhite;
+    color: white;
     font-size: 1.5em;
     background-color: green;
     height: 70px;
@@ -268,7 +268,7 @@ a{
 
 .mesaj{
     font-weight: bold;
-    color: antiquewhite;
+    color: white;
     font-size: 1.5em;
     background-color: chocolate;
     height: 70px;
@@ -375,7 +375,7 @@ a{
 
 
 .textAlb{
-    color: antiquewhite;
+    color: white;
 }
 
 .textNegru{
