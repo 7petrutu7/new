@@ -147,11 +147,12 @@
 
 
 .modZi{
-    padding: 1px 27px;
+    padding: 5px 27px;
     font-size: 1.4em;
 }
 .modNoapte{
     font-size: 1.4em;
+    padding-top: 4px;
 }
 
 
