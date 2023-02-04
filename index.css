@@ -1,6 +1,6 @@
 
 .categorie{
-    margin: 0px;
+    margin: 10px;
 }
 
 
@@ -12,12 +12,19 @@
 }
 
 
+.mama{
+    margin-top: 10px;
+    margin-left: -10px;
+}
+
 .imgCategorieDiv{
     margin-left: 40px;
     height: 100px;
     width: 100px;
     border-radius: 50%;
 }
+
+
 
 .imgCategorie{
    
@@ -26,10 +33,10 @@
 }
 
 .imgImobiliare{
-    height: 170px;
-    width: 170px;
-    margin-left: -35px;
-    margin-top: -40px;
+    height: 190px;
+    width: 190px;
+    margin-left: -45px;
+    margin-top: -50px;
 }
 
 .pImobiliare {
@@ -38,7 +45,7 @@
 }
 
 .pAuto{
-    color: #022;
+    color: white;
     padding: 10px;
     font-size: 20px;
 }
@@ -58,8 +65,22 @@
     padding: 20px;
 }
 
+.electronice{
+    margin-top: 10px;
+}
 
+.camasa{
+    margin-top: 5px;
+    height: 87px;
+    width: 87px;
+}
 
+.animale{
+    height: 150px;
+    width: 150px;
+    margin-left: -26px;
+    margin-top: -20px;
+}
 
 
 
