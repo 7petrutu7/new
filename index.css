@@ -88,6 +88,11 @@
     width: 87px;
 }
 
+
+.marginLeftMinus{
+    margin-left: -10px;
+}
+
 .casa{
     margin-left: -15px;
 }
