@@ -258,9 +258,10 @@ body{
 
 
 .anunturiH2Div{
+    margin-left: 50px;
     background-color: #020024;
     height: 100px;
-    width: 100%;
+    width: 800px;
     margin-bottom: 70px;
 }
 
