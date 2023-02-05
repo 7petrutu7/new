@@ -10,7 +10,7 @@ body{
     margin: 40px auto;
     height:650px;
     width: 330px;
-    background-color: whitesmoke;
+    background-color: white;
 }
 
 h1{
@@ -25,6 +25,7 @@ form{
 }
 
 input{
+    background-color: whitesmoke;
     border-radius: 40px;
     margin-top: 5px;
     height: 30px;
@@ -35,7 +36,9 @@ input{
 .autentificare{
     width: 70%;
     border-radius: 30px;
-    height: 30px;
+    height: 35px;
+    color: white;
+    background-color: #082B2B;
 }
 
 
@@ -43,10 +46,8 @@ input{
     margin-top: 20px;
 }
 
-.divAiCreaza{
-    margin-top: 20px;
-    display: flex;
-    justify-content: space-evenly;
+.aiUitat{
+    font-size: 1.3em;
 }
 
 button{
@@ -67,4 +68,17 @@ button{
 
 label{
     font-size: 25px;
+}
+
+.creaza{
+    font-size: 1.3em;
+    color: grey;
+}
+
+.inregistrare{
+    color: #082B2B;
+}
+
+a{
+    text-decoration: none;
 }
