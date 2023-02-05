@@ -198,7 +198,7 @@ body{
 
 .backgroundCategorii{
     background-color: #020024;
- 
+    margin-top: 310px;
 }
 
 
@@ -327,6 +327,12 @@ font-size: 22px;
 body .margin2{
     font-size: 2em;
     margin: 100px 0px;
+}
+
+.margin3{
+    margin-top: 20px;
+    font-size: 2em;
+    padding-top: 30px;
 }
 
 h2{
