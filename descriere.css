@@ -262,8 +262,7 @@ a{
     font-size: 1.5em;
     background-color: green;
     height: 70px;
-    width: 49%;
-    margin-left: 7px;
+    width: 100%;
 }
 
 .mesaj{
@@ -272,7 +271,7 @@ a{
     font-size: 1.5em;
     background-color: chocolate;
     height: 70px;
-    width: 49%;
+    width: 100%;
 }
 
 
