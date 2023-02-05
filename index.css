@@ -238,7 +238,20 @@ body{
 
 
 
+.nouDiv{
+    height: 50px;
+    width: 87%;
+    background-color: gold;
+    margin-bottom: -10px;
 
+}
+
+
+.nouP{
+    margin-top: 12px;
+    text-align: center;
+    color: white;
+}
 
 
 .anunturiH2Div{
