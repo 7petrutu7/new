@@ -54,7 +54,7 @@ header{
 }
 
 .nuAiCont{
-    margin-left: 170px;
+    margin-left: 160px;
     text-align: center;
     font-size: 1.4em;
     color: grey;
@@ -63,4 +63,15 @@ header{
 
 .inregistreaza-te{
     color: #020024;
+}
+
+img{
+    margin-left: 100px;
+}
+
+.label{
+    margin: 0;
+    font-size: 1.7em;
+    color: #020024;
+    margin-left: 450px;
 }
