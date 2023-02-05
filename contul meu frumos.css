@@ -10,7 +10,7 @@ header{
 }
 
 .input{
-    margin-left: 130px;
+    margin-left: 150px;
     height: 60px;
     width: 100%;
     border-radius: 50px;
@@ -20,7 +20,7 @@ header{
 }
 
 .submit{
-    margin-left: 130px;
+    margin-left: 140px;
     font-size: 1.5em;
     color: white;
     height: 60px;
