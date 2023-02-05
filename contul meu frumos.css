@@ -35,7 +35,7 @@ header{
 }
 
 .belowFormDiv{
-    margin-top: 180px;
+    margin-top: 80px;
     display: flex;
     flex-direction: column;
     justify-content: center;
