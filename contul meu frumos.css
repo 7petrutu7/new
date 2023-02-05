@@ -18,6 +18,7 @@ header{
 }
 
 .input{
+    font-size: 1.3em;
     margin-left: 150px;
     height: 60px;
     width: 100%;
@@ -69,9 +70,3 @@ img{
     margin-left: 100px;
 }
 
-.label{
-    margin: 0;
-    font-size: 1.7em;
-    color: #020024;
-    margin-left: 450px;
-}
