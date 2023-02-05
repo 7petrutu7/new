@@ -4,16 +4,13 @@ body{
 }
 
 
-h1{
-    text-align: center;
-    color: white;
-    margin: 0;
-}
+
 
 
 header{
     width: 500px;
-    height: 150px;
+    height: 250px;
+    background-color: #020024;
 }
 
 .input{
