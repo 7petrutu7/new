@@ -1,7 +1,7 @@
 
 body{
     margin: 0;
-    background-color: #020024;
+    background-color: white;
 }
 
 
@@ -27,7 +27,7 @@ body{
     height: 60px;
     width: 80%;
     border-radius: 50px;
-    background-color: goldenrod;
+    background-color: #020202;
 }
 
 .belowFormDiv{
@@ -41,7 +41,7 @@ body{
 .uitatParola{
     text-align: center;
     font-size: 1.4em;
-    color: white;
+    color: #020202;
     margin-top: 30px;
 }
 
@@ -53,7 +53,7 @@ body{
 }
 
 .inregistreaza-te{
-    color: white;
+    color: #020202;
 }
 
 img{
