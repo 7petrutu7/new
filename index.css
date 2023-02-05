@@ -258,7 +258,7 @@ body{
 
 
 .anunturiH2Div{
- 
+    margin-top: -100px;
     background-color: black;
     
     
@@ -266,9 +266,10 @@ body{
 
 
 .anunturiH2{
-    padding-top: 30px;
+    padding-top: 70px;
+    padding-bottom: 50px;
     color: white;
-    font-size: 2em;
+    font-size: 2.5em;
 }
 
 
