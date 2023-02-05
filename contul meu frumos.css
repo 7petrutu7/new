@@ -9,11 +9,7 @@ h1{
 }
 
 
-header{
-    width: 500px;
-    height: 250px;
-    background-color: #020024;
-}
+
 
 .input{
     font-size: 1.3em;
@@ -65,7 +61,7 @@ header{
 }
 
 img{
-    height: 200px;
+    height: 100px;
     margin-top: 10px;
     margin-left: 125px;
 }
