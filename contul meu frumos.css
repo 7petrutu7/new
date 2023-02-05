@@ -5,14 +5,14 @@ body{
 
 
 h1{
+    margin: 0;
     text-align: center;
     color: white;
-    margin: 0;
+    padding: 100px 0 0 0;
 }
 
 
 header{
-    background-image: url("drop-3698073__340.jpg");
     width: 500px;
     height: 300px;
     background-color: #020024;
