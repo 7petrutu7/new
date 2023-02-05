@@ -228,10 +228,10 @@ body{
 
 .backgroundCategorii2{
     margin-top: 150px;
-   height: 1050px;
+   height: 930px;
     width: 100%;
     background-color: #020024;
-    margin-bottom: 30px;
+    margin-bottom: 90px;
     
 }
 
@@ -239,16 +239,18 @@ body{
 
 
 
-.backgroundCategorii{
-    margin-top: 0px;
-   
-    width: 100%;
+
+
+.anunturiH2Div{
     background-color: #020024;
-    
+    height: 100px;
+    width: 100%;
+    margin-bottom: 40px;
 }
 
 
 .anunturiH2{
+    padding-top: 30px;
     color: white;
     font-size: 2em;
 }
@@ -291,7 +293,7 @@ header{
 .anunt{
     
     background-color:#020024 ;
-    height: 820px;
+    height: 830px;
     width: 800px;
     display: flex;
     flex-direction: column;
