@@ -14,7 +14,6 @@ h1{
 header{
     width: 500px;
     height: 150px;
-    background-color: #020024;
 }
 
 .input{
@@ -39,7 +38,7 @@ header{
 }
 
 .belowFormDiv{
-    margin-top: 80px;
+    margin-top: 180px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -67,8 +66,8 @@ header{
 }
 
 img{
-    height: 100px;
-    margin-top: 580px;
+    height: 200px;
+    margin-top: 10px;
     margin-left: 190px;
 }
 
