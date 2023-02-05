@@ -8,7 +8,7 @@ body{
 
 .divForm{
     margin: 40px auto;
-    height:550px;
+    height:650px;
     width: 330px;
     background-color: whitesmoke;
 }
@@ -25,10 +25,19 @@ form{
 }
 
 input{
+    border-radius: 40px;
     margin-top: 5px;
-    height: 23px;
+    height: 30px;
     width: 70%;
 }
+
+
+.autentificare{
+    width: 70%;
+    border-radius: 30px;
+    height: 30px;
+}
+
 
 .centerLogin{
     margin-top: 20px;
