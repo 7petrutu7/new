@@ -248,7 +248,8 @@ body{
 
 
 .nouP{
-    margin-top: 12px;
+    font-size: 2em;
+    margin-top: 5px;
     text-align: center;
     color: white;
 }
