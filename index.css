@@ -197,8 +197,12 @@ body{
 
 
 .backgroundCategorii{
-    background-color: #020024;
     margin-top: 310px;
+    margin-right:  50px;
+    margin-left: 50px;
+    width: 100%;
+    background-color: #020024;
+    
 }
 
 
