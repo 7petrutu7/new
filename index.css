@@ -192,14 +192,42 @@ body{
 }
 
 
+.divLabel{
+    margin-left: 302px;
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
+
+.label{
+    color: white;
+    font-size: 2em;
+   
+}
+
+.center-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+
+
+.backgroundCategorii2{
+    margin-top: 310px;
+   height: 350px;
+    width: 100%;
+    background-color: #020024;
+    
+}
+
 
 
 
 
 .backgroundCategorii{
     margin-top: 310px;
-    margin-right:  50px;
-    margin-left: 50px;
+   
     width: 100%;
     background-color: #020024;
     
@@ -355,11 +383,7 @@ select{
 button{
     font-size: 1.3em;}
 
-.center-div{
-    display: flex;
-    justify-content: center;
-    margin: 80px 0px;
-}
+
 
 
  .divAnunturi{
