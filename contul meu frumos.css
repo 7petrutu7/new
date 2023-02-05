@@ -5,13 +5,16 @@ body{
 }
 
 
-
+.center{
+    display: flex;
+    justify-content: center;
+}
 
 
 .input{
     font-size: 1.3em;
     height: 60px;
-    width: 100%;
+    width: 80%;
     border-radius: 50px;
     background-color: whitesmoke;
     margin-bottom: 20px;
@@ -22,7 +25,7 @@ body{
     font-size: 1.5em;
     color: white;
     height: 60px;
-    width: 100%;
+    width: 80%;
     border-radius: 50px;
     background-color: goldenrod;
 }
@@ -56,6 +59,5 @@ body{
 img{
     height: 100px;
     margin-top: 10px;
-    margin-left: 125px;
 }
 
