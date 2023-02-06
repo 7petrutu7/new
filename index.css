@@ -614,3 +614,25 @@ a{
   .backgroundVerde{
     background-color: #082B2B ;
   }
+
+.backgroundAlbastru{
+    background-color: #020024;
+}
+
+.albastru{
+    background-color: #020024;
+    height: 40px;
+    width: 40px;
+}
+
+.verde{
+    background-color: #082B2B;
+    height: 40px;
+    width: 40px;
+}
+
+.fixed{
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
