@@ -1,7 +1,7 @@
 
 
 body{
-    background-color: #082B2B;
+    background-color: white;
 }
 
 
@@ -10,14 +10,14 @@ body{
     margin: 22px auto;
     height:615px;
     width: 330px;
-    background-color: white;
+    background-color: #020024;
 }
 
 h1{
     margin: 0;
     text-align: center;
     padding-top: 20px;
-    color: #082B2B;
+    color: white;
 }
 
 form{
@@ -51,6 +51,7 @@ input{
 
 .aiUitat{
     font-size: 1.3em;
+    color: white;
 }
 
 button{
@@ -71,6 +72,7 @@ button{
 
 label{
     font-size: 25px;
+    color: white;
 }
 
 .creaza{
@@ -79,7 +81,7 @@ label{
 }
 
 .inregistrare{
-    color: #082B2B;
+    color: white;
 }
 
 a{
