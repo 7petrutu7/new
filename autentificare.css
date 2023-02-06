@@ -8,8 +8,8 @@ body{
 
 .divForm{
     margin: auto;
-    height:670px;
-    width: 350px;
+    height:100%;
+    width: 100%;
     background-color: #020024;
 }
 
@@ -80,10 +80,12 @@ label{
 .creaza{
     font-size: 1.3em;
     color: grey;
+    padding-bottom: 30px;
 }
 
 .inregistrare{
     color: white;
+    
 }
 
 a{
