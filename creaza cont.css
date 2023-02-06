@@ -86,6 +86,7 @@ label{
 
 a{
     text-decoration: none;
+    color: white;
 }
 
 .am{
@@ -98,9 +99,11 @@ a{
 .inregistrare{
     color: white;
     
+    
 }
 
 .creaza{
     font-size: 1.3em;
     color: grey;
+    padding-bottom: 30px;
 }
