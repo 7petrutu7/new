@@ -367,3 +367,53 @@ function topFunction() {
   document.body.scrollTop = 0; // For Safari
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
+
+
+
+
+
+const anunt = document.querySelectorAll(".anunt")
+const verde = document.getElementById("verde")
+const albastru = document.getElementById("albastru")
+const header = document.getElementById("header")
+const cauta = document.getElementById("cauta")
+const anunturi = document.getElementById("anunturi")
+const categorii = document.getElementById("categorii")
+
+const footer = document.getElementById("footer")
+
+
+verde.addEventListener("click", function(){
+
+  anunt.forEach((element) => {
+    element.classList.add('backgroundVerde');
+  });
+
+  footer.classList.add("backgroundVerde")
+  anunturi.classList.add("backgroundVerde")
+  categorii.classList.add("backgroundVerde")
+  header.classList.add("backgroundVerde")
+  cauta.classList.add("backgroundVerde")
+
+  verde.classList.add("displayOff")
+  albastru.classList.remove('displayOff')
+
+
+})
+
+albastru.addEventListener("click", function(){
+  
+  anunt.forEach((element) => {
+    element.classList.remove('backgroundVerde');
+  });
+
+  footer.classList.remove("backgroundVerde")
+  anunturi.classList.remove("backgroundVerde")
+  categorii.classList.remove("backgroundVerde")
+  header.classList.remove("backgroundVerde")
+  cauta.classList.remove("backgroundVerde")
+
+
+  verde.classList.remove("displayOff")
+  albastru.classList.add("displayOff")
+})
