@@ -37,6 +37,7 @@ input{
 
 
 .autentificare{
+    margin-top: 20px;
     font-size: 1.3em;
     border: none;
     width: 70%;
@@ -52,7 +53,6 @@ input{
 }
 
 .aiUitat{
-    margin-top: 26px;
     font-size: 1.3em;
     color: white;
 }
@@ -79,7 +79,6 @@ label{
 }
 
 .creaza{
-    margin-top: 25px;
     font-size: 1.3em;
     color: grey;
     padding-bottom: 100px;
