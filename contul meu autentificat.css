@@ -661,6 +661,12 @@ a{
     align-items: center;
 }
 
+hr{
+    background-color: #082B2B;
+    border: none;
+    height: 1px;
+}
+
 .divContulMeu{
     color: white;
   
