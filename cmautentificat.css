@@ -10,7 +10,7 @@ body{
     margin: auto;
     height:100%;
     width: 100%;
-    background-color: black;
+    
 }
 
 h1{
@@ -37,7 +37,7 @@ form{
     border-radius: 30px;
     height: 60px;
     color: white;
-    background-color: #082B2B;
+    background-color: #020024;
 }
 
 
