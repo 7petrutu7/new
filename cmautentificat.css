@@ -1,7 +1,7 @@
 
 
 body{
-    background-color: black;
+    background-color: #020024;
 }
 
 
@@ -10,7 +10,7 @@ body{
     margin: auto;
     height:100%;
     width: 100%;
-    background-color: black;
+    background-color: #020024;
 }
 
 h1{
@@ -35,9 +35,9 @@ form{
     border: none;
     width: 90%;
     border-radius: 30px;
-    height: 55px;
+    height: 60px;
     color: white;
-    background-color: #020024;
+    background-color: #082B2B;
 }
 
 
@@ -58,8 +58,8 @@ button{
 .imgAu{
     border-radius: 100px;
     margin: 0;
-    height: 120px;
-    width: 120px;
+    height: 150px;
+    width: 150px;
 }
 
 .centerImgAu{
@@ -85,9 +85,4 @@ label{
 
 a{
     text-decoration: none;
-}
-
-
-.height{
-    height: 70px;
 }
