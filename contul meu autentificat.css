@@ -661,11 +661,6 @@ a{
     align-items: center;
 }
 
-hr{
-    background-color: #082B2B;
-    border: none;
-    height: 1px;
-}
 
 .divContulMeu{
     color: white;
@@ -708,6 +703,9 @@ h1{
     padding-bottom: 50px;
 }
 
-.padding2{
-    padding-top: 50px;
+
+hr{
+    background-color: #082B2B;
+    border: none;
+    height: 2px;
 }
