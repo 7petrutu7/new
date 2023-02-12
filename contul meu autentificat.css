@@ -552,7 +552,7 @@ footer p{
 
 a{
     text-decoration: none;
-    color: #EEE853;
+   color: white;
 }
 
 .jos{
@@ -659,6 +659,7 @@ a{
     justify-content: space-between;
     flex-direction: column;
     align-items: center;
+    background-color: #082B2B;
 }
 
 .divContulMeu{
@@ -686,8 +687,11 @@ h2{
 
 h1{
     font-size: 70px;
-    
-  
+}
+
+.color{
+    width: 100%;
+    background-color: #082B2B;
 }
 
 .numeSiImagine{
