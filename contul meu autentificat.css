@@ -648,7 +648,9 @@ a{
 
 .h1CM{
     font-size: 56px;
-    padding-top: 20px;
+    padding: 20px 0 0 0;
+    border: none;
+    
 }
 
 .meniu{
@@ -683,6 +685,8 @@ h2{
 
 h1{
     font-size: 56px;
+    border: 1px solid;
+    padding: 20px 100%;
 }
 
 .numeSiImagine{
