@@ -647,7 +647,7 @@ a{
 }
 
 .h1CM{
-    font-size: 26px;
+    font-size: 56px;
     padding-top: 20px;
 }
 
@@ -664,8 +664,8 @@ a{
 
 .imgCM{
     border-radius: 200px;
-    width: 130px;
-    height: 120px;
+    width: 250px;
+    height: 220px;
     margin-bottom: 20px;
 }
 
