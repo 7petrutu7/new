@@ -14,7 +14,7 @@ body{
 }
 
 h1{
-    font-size: 40px;
+    font-size: 35px;
     margin: 0;
     text-align: center;
     padding: 20px 0;
@@ -33,9 +33,9 @@ form{
    
     font-size: 1.8em;
     border: none;
-    width: 70%;
+    width: 90%;
     border-radius: 30px;
-    height: 40px;
+    height: 60px;
     color: white;
     background-color: #082B2B;
 }
@@ -58,8 +58,8 @@ button{
 .imgAu{
     border-radius: 100px;
     margin: 0;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
 }
 
 .centerImgAu{
