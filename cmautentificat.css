@@ -35,7 +35,7 @@ form{
     border: none;
     width: 90%;
     border-radius: 30px;
-    height: 60px;
+    height: 55px;
     color: white;
     background-color: #082B2B;
 }
@@ -85,4 +85,8 @@ label{
 
 a{
     text-decoration: none;
+}
+
+.deconectare{
+    background-color: brown;
 }
