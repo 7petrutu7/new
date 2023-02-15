@@ -1,0 +1,248 @@
+
+
+body{
+    background-color: #020024;
+}
+
+
+
+.divForm{
+    margin: auto;
+    height:100%;
+    width: 100%;
+    
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    margin: 0;
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+}
+
+form{
+    text-align: center;
+    margin-top: 0px;
+}
+
+
+
+
+.autentificare{
+   
+    font-size: 1.8em;
+    border: none;
+    width: 90%;
+    border-radius: 30px;
+    height: 62px;
+    color: white;
+    background-color: #082B2B;
+}
+
+
+.centerLogin{
+    margin-top: 20px;
+}
+
+.aiUitat{
+    font-size: 1.3em;
+    color: white;
+}
+
+button{
+    font-size: 1.2em;
+    
+}
+
+.imgAu{
+    margin: 0;
+    height: 150px;
+    width: 180px;
+}
+
+.centerImgAu{
+    display: flex;
+    justify-content: center;
+}
+
+label{
+    font-size: 25px;
+    color: white;
+}
+
+.creaza{
+    font-size: 1.3em;
+    color: grey;
+    padding-bottom: 100px;
+}
+
+.inregistrare{
+    color: white;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.inapoi{
+    background-color: brown;
+}
+/* de vazut daca deconectare ramane rosu */
+
+
+
+
+
+
+
+/* aici partea cu anunt */
+
+
+
+
+
+
+
+
+body{
+
+
+    position: relative;
+    margin: 0;
+
+    background-color: black;
+
+
+
+}
+
+
+.anunt{
+    
+    background-color:#020024 ;
+    height: 650px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 80px;
+    position: relative;
+}
+
+
+
+
+.imgAnunt{
+    width: 450px;
+    height: 320px;
+}
+
+
+
+
+body .margin2{
+    font-size: 2em;
+    margin: 100px 0px;
+}
+
+
+
+h2{
+    margin: 40px 0px;
+    text-align: center;
+}
+
+
+.flex{
+    display: flex;
+}
+
+.divAnunturi{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
+
+.locatie,.pret,.stare,.timp{
+    text-align: start;
+    font-size: 1em;
+    margin-left: 30px;
+}
+
+
+
+.numeAnunt,.locatie,.timp{
+    color: white;
+}
+
+.numeAnunt{
+    padding: 0px 10px 0px 10px;
+    font-weight: 500;
+    text-align: center;
+    margin: 15px 0px 40px 0;
+    font-size:2em;
+}
+
+.locatie{
+    text-align: center;
+    margin: 10px 0 0 0px;
+    font-size: 1.8em;
+}
+
+.timp{
+    text-align: center;
+    font-size: 1.8em;
+    margin: 10px 0 0 0px;
+}
+
+.pret{
+    text-align: center;
+    margin: 15px 0 0 0px;
+    font-weight: bold;
+    font-size: 2em;
+    color: white;
+    padding: 20px 0px 20px 0;
+}
+
+
+.stare{
+    text-align: center;
+    margin: 0 0 0 0px;
+    color: white;
+    font-size: 2em;
+}
+
+
+.divButoane{
+    margin-top: 20px;
+}
+
+button{
+    width: 49%;
+    height: 50px;
+    font-size: 1.3em;
+}
+
+.editeaza{
+    background-color: #082B2B;
+    color: white;
+}
+
+.dezactiveaza{
+    background-color: brown;
+    color: white;
+}
