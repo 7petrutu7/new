@@ -118,7 +118,7 @@ body{
 
 
 .anunt{
-    
+    margin-top: 40px;
     background-color:#020024 ;
     height: 450px;
     width: 250px;
@@ -132,6 +132,7 @@ body{
 
 .h1Active{
     margin: 0;
+    background-color: #082B2B;
 }
 
 .backgroundActive{
