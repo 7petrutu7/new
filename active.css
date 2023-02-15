@@ -8,6 +8,16 @@ a{
 
 
 
+.logo{
+}
+
+.logoDiv{
+    background-color: #020024;
+    display: flex;
+    justify-content: center;
+}
+
+
 body{
 
 
