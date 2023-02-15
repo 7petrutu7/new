@@ -43,7 +43,7 @@ body{
 .anunt{
     margin-top: 40px;
     background-color:#020024 ;
-    height: 230px;
+    height: 210px;
     width: 320px;
    display: flex;
    flex-direction: row;
@@ -71,7 +71,7 @@ body{
 
 .imgAnunt{
     width: 160px;
-    height: 230px;
+    height: 210px;
 }
 
 button{
