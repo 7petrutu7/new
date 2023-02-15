@@ -130,7 +130,7 @@ body{
 .anunt{
     margin-top: 40px;
     background-color:#020024 ;
-    height: 220px;
+    height: 210px;
     width: 320px;
    display: flex;
    flex-direction: row;
@@ -144,7 +144,7 @@ body{
 
 .imgAnunt{
     width: 150px;
-    height: 220px;
+    height: 210px;
 }
 
 
