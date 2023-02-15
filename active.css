@@ -22,14 +22,12 @@ a{
 .editeaza{
     color: white;
     background-color: #082B2B;
-    border:none;
 
 }
 
 .dezactiveaza{
     color: white;
     background-color: brown;
-    border:none;
 }
 
 body{
