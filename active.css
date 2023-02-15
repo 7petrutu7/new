@@ -110,12 +110,9 @@ a{
 body{
 
 
- 
     margin: 0;
 
     background-color: black;
-
-
 
 }
 
@@ -133,6 +130,15 @@ body{
 
 
 
+.h1Active{
+    margin: 0;
+}
+
+.backgroundActive{
+    background-color: #020024;
+    
+    margin: 10px 0 30px 0;
+}
 
 .imgAnunt{
     width: 250px;
