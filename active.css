@@ -112,6 +112,29 @@ button{
     flex-direction: column;
 }
 
+.check{
+    position: absolute;
+    top: 470px;
+    left: 190px;
+}
+
+.check2{
+    position: absolute;
+    top: 770px;
+    left: 190px;
+}
+
+.check3{
+    position: absolute;
+    top: 1070px;
+    left: 190px;
+}
+
+.check4{
+    position: absolute;
+    top: 1370px;
+    left: 190px;
+}
 
 
 .locatie,.pret,.stare,.timp{
