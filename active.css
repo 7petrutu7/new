@@ -29,16 +29,14 @@ a{
 }
 
 .editeaza{
-    
     color: white;
     background-color: #082B2B;
-    width: 162px
+
 }
 
 .dezactiveaza{
     color: white;
     background-color: brown;
-    width: 175px;
 }
 
 body{
@@ -55,7 +53,7 @@ body{
     margin-top: 40px;
     background-color:#020024 ;
     height: 210px;
-    width: 335px;
+    width: 320px;
    display: flex;
    flex-direction: row;
     margin-bottom: 80px;
@@ -81,7 +79,7 @@ body{
 }
 
 button{
-    
+    width: 160px;
     height: 40px;
     font-size: 1.4em;
     border: 1px;
