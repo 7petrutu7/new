@@ -120,7 +120,7 @@ body{
 .anunt{
     margin-top: 40px;
     background-color:#020024 ;
-    height: 450px;
+    height: 365px;
     width: 250px;
     display: flex;
     flex-direction: column;
@@ -236,18 +236,9 @@ h2{
 }
 
 button{
-    width: 100%;
+    width: 49%;
     height: 50px;
     font-size: 1.3em;
     border: none;
 }
 
-.editeaza{
-    background-color: #082B2B;
-    color: white;
-}
-
-.dezactiveaza{
-    background-color: brown;
-    color: white;
-}
