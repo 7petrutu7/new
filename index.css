@@ -2,20 +2,34 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: black;
-    margin: 0;
 }
-
-header{
+  
+header {
     background-color: #020024;
-    margin: 0;
     height: 150px;
 }
-
-.logo{
-    margin-top: 5px;
-    margin-left: 40px;
+  
+.logo {
+    margin: 5px 0 0 40px;
     width: 120px;
     height: 80px;
+    border: 1px solid red;
 }
+  
+.vinzi,
+.rapid,
+body,
+header {
+    margin: 0;
+}
+  
+.vinzi {
+    color: #fff;
+}
+  
+.rapid {
+    color: #eee853;
+}
+  
