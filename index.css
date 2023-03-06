@@ -42,13 +42,9 @@ header {
 }
 
 .align-right{
-    
-    align-items: center;
-    
+    text-align: center; 
     display: flex;
     flex-direction: column;
-    border: 1px solid red;
-    height: 100%;
     width: 50%;
 }
 
@@ -62,7 +58,7 @@ h3{
 
 a{
     color: #EEE853;
-    font-size: 1emem;
+    font-size: 1em;
     text-decoration: none;
     font-weight: 500;
 }
