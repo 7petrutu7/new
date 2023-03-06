@@ -74,3 +74,10 @@ a{
     text-decoration: none;
     font-weight: 500;
 }
+
+.img-cont{
+    margin: 0 auto;
+    display: block;
+    height: 2.5em;
+    width: 2.5em;
+}
