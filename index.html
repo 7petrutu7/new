@@ -31,6 +31,37 @@
 	</header>
 	<!-- header end-->
 
+
+	<!-- Partea de cautare start -->
+	<form id="search-form">
+		<label for="search-query">Caută un anunț:</label>
+		<input type="text" id="search-query" placeholder="Introduceti un cuvant cheie...">
+		
+		<label for="category">Categorie:</label>
+		<select id="category">
+		  <option value="toate-categoriile">Toate categoriile</option>
+		  <option value="auto-moto">Auto, moto si ambarcatiuni</option>
+		  <option value="imobiliare">Imobiliare</option>
+		  <option value="locuri-de-munca">Locuri de munca</option>
+		  <!-- adaugati alte categorii, dupa caz -->
+		</select>
+		
+		<label for="location">Locație:</label>
+		<select id="location">
+		  <option value="toate-locatiile">Toate locațiile</option>
+		  <option value="bucuresti">București</option>
+		  <option value="iasi">Iași</option>
+		  <option value="cluj">Cluj</option>
+		  <!-- adaugati alte locații, dupa caz -->
+		</select>
+		
+		<button type="submit">Caută</button>
+	  </form>
+	  
+	<!-- Partea de cautare end -->
+
+
+	<script src="index.js"></script>i
 </body>
 </html>
 

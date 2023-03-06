@@ -12,10 +12,10 @@ header {
 }
   
 .logo {
-    margin: 5px 0 0 40px;
+    margin: 5px 0 0 7px;
     width: 120px;
     height: 80px;
-    border: 1px solid red;
+    
 }
   
 .vinzi,
@@ -27,9 +27,11 @@ header {
   
 .vinzi {
     color: #fff;
+    margin-left: 2px;
 }
   
 .rapid {
+    margin-left: 6px;
     color: #eee853;
 }
   
