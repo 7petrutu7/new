@@ -45,6 +45,11 @@ header {
     display: flex;
     flex-direction: column;
     border: 1px solid red;
+    width: 50%;
+}
+
+.align-left{
+    width: 50%;
 }
 
 h3{
