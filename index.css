@@ -13,8 +13,8 @@ header {
   
 .logo {
     margin: 0.3125em 0 0 0.4375em;
-    width: 7.5em;
-    height: 5em;
+    width: 6.5em;
+    height: 4.5em;
     
 }
   
@@ -45,11 +45,11 @@ header {
     text-align: center; 
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 60%;
 }
 
 .align-left{
-    width: 50%;
+    width: 40%;
 }
 
 h3{
