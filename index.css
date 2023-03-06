@@ -38,15 +38,17 @@ header {
 .container{
     display: flex;
     justify-content: space-between;
-    align-items: start;
+    align-items: center;
 }
 
 .align-right{
-    text-align: center;
-    margin-top: 1.5em;
+    
+    align-items: center;
+    
     display: flex;
     flex-direction: column;
     border: 1px solid red;
+    height: 100%;
     width: 50%;
 }
 
