@@ -8,13 +8,13 @@ body {
   
 header {
     background-color: #020024;
-    height: 150px;
+    height: 9em;
 }
   
 .logo {
-    margin: 5px 0 0 7px;
-    width: 120px;
-    height: 80px;
+    margin: 0.3125em 0 0 0.4375em;
+    width: 7.5em;
+    height: 5em;
     
 }
   
@@ -27,18 +27,18 @@ header {
   
 .vinzi {
     color: #fff;
-    margin-left: 2px;
+    margin-left: 0.1111em;
 }
   
 .rapid {
-    margin-left: 6px;
+    margin-left: 0.33em;
     color: #eee853;
 }
   
 .container{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: start;
 }
 
 .align-right{
