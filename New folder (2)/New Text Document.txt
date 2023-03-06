@@ -1,0 +1,4 @@
+nume admin django:
+petru
+7petrutu7@gmail.com
+Redred!1

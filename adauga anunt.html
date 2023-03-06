@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="ro">
+    
+	<head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="adauga anunt.css">
+		<title>E mai simplu - Adauga anunt gratuit</title>
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+
+        <section>
+            <main>
+                <div class="divForm">
+                    <h1>Adauga anunt</h1>
+                    <div class="centerImgAu">
+                        <a href="index.html"><img class="imgAu" src="logo/without4.png" alt=""></a>
+                    </div>
+                    <form action="dataFromForm.html" id="form" method="get">
+
+                        <div class="centerLogin">
+                            <label for="Titlu">Titlu </label>
+                            <br>
+                            <input id="titlu" required type="text" name="Titlu" >
+                        </div>
+
+                        <div class="centerLogin">
+                            <label for="Categorie">Categorie</label>
+                            <br>
+                            <input id="categorie" required type="text" name="Categorie" >
+                        </div>
+                        
+                        <div class="centerLogin">
+                            <label for="descriere">Descriere</label>
+                            <br>
+                            <textarea id="descriere" required name="descriere" id="" cols="30" rows="7"></textarea>
+
+                        </div>
+
+
+
+                        <div class="centerLogin">
+                            <label for="pret">Pret (lei)</label>
+                            <br>
+                            <input id="pret" required type="text" name="pret" multiple>
+
+                        </div>
+
+                        <div class="centerLogin">
+                            <label for="numartelefon">Numar de telefon</label>
+                            <br>
+                            <input id="telefon" required type="text" name="numartelefon" multiple>
+
+                        </div>
+
+                        <div class="centerLogin">
+                            <label for="locatie">Locatie</label>
+                            <br>
+                            <input id="locatie" required type="text" name="locatie" multiple>
+
+                        </div>
+
+                        
+
+
+
+
+
+
+                        <div class="centerlogin2">
+                                <div class="alingCheck">
+                                    <input required class="inputcheck" type="checkbox">
+                                </div>
+                                <div class="alingAm">
+                                    <p class="am">Am citit si sunt de acord cu <a href=""> termenii si conditile </a>site-ului</p>
+                                </div>
+                        </div>
+
+                        <button type="submit">Adauga</button>
+                        
+                        
+                        
+
+
+                    </form>
+
+                </div>
+
+
+
+            </main>
+        </section>
+
+
+
+
+
+
+
+
+        <script src="index.js"></script>
+    </body>
+		
+		
+</html>

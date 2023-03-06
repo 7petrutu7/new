@@ -1,0 +1,102 @@
+
+
+body{
+    background-color: #020024;
+}
+
+
+
+.divForm{
+    margin: auto;
+    height:100%;
+    width: 100%;
+    
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    margin: 0;
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+}
+
+form{
+    text-align: center;
+    margin-top: 0px;
+}
+
+
+
+
+.autentificare{
+   
+    font-size: 1.8em;
+    border: none;
+    width: 90%;
+    border-radius: 30px;
+    height: 60px;
+    color: white;
+    background-color: #082B2B;
+}
+
+
+.centerLogin{
+    margin-top: 20px;
+}
+
+.aiUitat{
+    font-size: 1.3em;
+    color: white;
+}
+
+button{
+    font-size: 1.2em;
+    
+}
+
+.imgAu{
+    margin: 0;
+    height: 150px;
+    width: 180px;
+}
+
+.centerImgAu{
+    display: flex;
+    justify-content: center;
+}
+
+label{
+    font-size: 25px;
+    color: white;
+}
+
+.creaza{
+    font-size: 1.3em;
+    color: grey;
+    padding-bottom: 100px;
+}
+
+.inregistrare{
+    color: white;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/* de vazut daca deconectare ramane rosu */
+
+.deconectare{
+    margin-bottom: 20px;
+    background-color: brown;
+}
+

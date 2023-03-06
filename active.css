@@ -1,0 +1,200 @@
+
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.h1Active{
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 30px;
+    margin: 0;
+    background-color: #020024;
+}
+
+.selectati{
+    margin-top: 30px;
+}
+
+label{
+   
+    color: white;
+    font-size: 24px;
+}
+
+.logo{
+    height: 120px;
+    width: 150px;
+}
+
+.logoDiv{
+    background-color: #020024;
+    display: flex;
+    justify-content: center;
+}
+
+.editeaza{
+    margin-left:7px;
+    width: 172px;
+    color: white;
+    background-color: #082B2B;
+
+}
+
+.dezactiveaza{
+    margin-right: 7px;
+    width: 166px;
+    color: white;
+    background-color: brown;
+}
+
+body{
+
+
+    margin: 0;
+
+    background-color: black;
+
+}
+
+
+.anunt{
+    margin-top: 40px;
+    background-color:#020024 ;
+    height: 210px;
+    width: 338px;
+   display: flex;
+   flex-direction: row;
+    margin-bottom: 80px;
+    
+}
+
+.ultimu{
+    margin-bottom: 40px;
+}
+
+
+
+
+.dB{
+    margin-top: -80px;
+    display: flex;
+}
+
+
+.imgAnunt{
+    width: 172px;
+    height: 210px;
+}
+
+button{
+    
+    height: 40px;
+    font-size: 1.4em;
+    border: 1px;
+    
+}
+
+
+
+.mare{height: 230px;}
+
+.divAnunturi{
+    
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.check{
+    position: absolute;
+    top: 470px;
+    left: 1px;
+}
+
+.check2{
+    position: absolute;
+    top: 770px;
+    left: 1px;
+}
+
+.check3{
+    position: absolute;
+    top: 1070px;
+    left: 1px;
+}
+
+.check4{
+    position: absolute;
+    top: 1370px;
+    left: 1px;
+}
+
+
+.locatie,.pret,.stare,.timp{
+    text-align: start;
+    font-size: 1em;
+    margin-left: 30px;
+}
+
+
+
+.numeAnunt,.locatie,.timp{
+    color: white;
+}
+
+.numeAnunt{
+    padding: 0px 10px 0px 10px;
+    font-weight: 500;
+    text-align: center;
+    margin: 15px 0px 20px 0;
+    font-size: 1.2em;
+    
+}
+
+.locatie{
+    text-align: center;
+    margin: 10px 0 0 0px;
+  
+}
+
+.timp{
+    text-align: center;
+    
+    margin: 10px 0 0 0px;
+}
+
+.pret{
+    text-align: center;
+    margin: 0px 0 0 0px;
+    font-weight: bold;
+   
+    color: white;
+    padding: 20px 2px 20px 2px;
+}
+
+
+.stare{
+    text-align: center;
+    margin: 0 0 0 0px;
+    color: white;
+    
+}
+
+
+
+/* aici */
+
+
+
+
+
+
+
+
