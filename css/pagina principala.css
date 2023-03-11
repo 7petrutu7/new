@@ -53,14 +53,10 @@ header{
     margin-right: 1.5rem;
 }
 
-.img-cm{
-    width: 2.2rem;
-    margin-right: 0.5rem;
-}
-
+.img-cm,
 .img-add{
-    margin-right: 0.5rem;
     width: 2.2rem;
+    margin-right: 0.5rem;
 }
 
 
