@@ -37,6 +37,19 @@ header{
     margin-right: 1rem;
 }
 
+.img-cm{
+    width: 2rem;
+}
+
+.img-add{
+    width: 2rem;
+}
+
+.df4{
+    display: flex;
+    flex-direction: row
+}
+
 p{
     margin: 0;
 }
