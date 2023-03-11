@@ -14,10 +14,11 @@ header{
 
 .logo-img{
     display: block;
+    width: 7rem;
+    height: 6rem;
 }
 
 .contulmeu-img,
-.logo-img,
 .adauga-img{
     width: 5rem;
     height: 5rem;
