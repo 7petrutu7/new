@@ -1,10 +1,14 @@
-.displayFlex{
-    display: flex;
-    justify-content: space-between;
-}
+*{box-sizing: border-box;}
+
 
 body{
     margin: 0;
+    background-color: black;
+}
+
+.displayFlex{
+    display: flex;
+    justify-content: space-between;
 }
 
 header{
@@ -35,3 +39,28 @@ header{
     margin-right: 1rem;
 }
 
+.backgroundCategoriiPrincipale{
+    width: 100%;
+    background-color: #020024;    
+    margin-top: 0.5rem;
+}
+
+.backgroundCategoriiPrincipale h2{
+    text-align: center;
+    margin: 0;
+}
+
+.vinzi{
+    padding: 0.5rem 0;
+    color: white;    
+}
+
+.rapid{
+    color: #eee853;
+    padding-bottom: 1rem;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
