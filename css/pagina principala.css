@@ -29,6 +29,10 @@ header{
     flex-direction: column;
 }
 
+.df3{
+    margin-right: 1rem;
+}
+
 p{
     margin: 0;
 }
