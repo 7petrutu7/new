@@ -1,5 +1,6 @@
 .displayFlex{
     display: flex;
+    justify-content: space-between;
 }
 
 body{
@@ -18,7 +19,7 @@ header{
 .contulmeu-img,
 .logo-img,
 .adauga-img{
-    width: 10rem;
-    height: 10rem;
+    width: 5rem;
+    height: 5rem;
     
 }
