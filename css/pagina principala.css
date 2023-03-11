@@ -37,6 +37,12 @@ header{
     margin-right: 1rem;
 }
 
+
+.df4{
+    display: flex;
+    flex-direction: row
+}
+
 .img-cm{
     width: 2rem;
 }
@@ -45,9 +51,10 @@ header{
     width: 2rem;
 }
 
-.df4{
-    display: flex;
-    flex-direction: row
+
+.cm,
+.aa{
+    padding-top: 0.4rem;
 }
 
 p{
