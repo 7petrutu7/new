@@ -1,5 +1,9 @@
 *{box-sizing: border-box;}
 
+a{
+    text-decoration: none;
+}
+
 
 body{
     margin: 0;
@@ -69,11 +73,7 @@ p{
     margin: 0;
 }
 
-.backgroundCategoriiPrincipale{
-    width: 100%;
-    background-color: #020024;    
-    margin-top: 0.5rem;
-}
+
 
 .vinzi{
     color: white;   
@@ -90,6 +90,14 @@ p{
     color: #eee853;    
 }
 
+/* aici header end */
+
+.backgroundCategoriiPrincipale{
+    width: 100%;
+    background-color: #020024;    
+    margin-top: 0.5rem;
+}
+
 .container{
     display: flex;
     justify-content: center;
@@ -101,4 +109,5 @@ p{
     padding: 0 0.3rem;
     font-size: 1em;
 }
+
 
