@@ -51,13 +51,13 @@ header{
 }
 
 .vinzi{
-    padding: 0.5rem 0;
+    padding: 0.7rem 0;
     color: white;    
 }
 
 .rapid{
     color: #eee853;
-    padding-bottom: 1rem;
+    padding-bottom: 1.4rem;
 }
 
 .container{
@@ -70,4 +70,9 @@ header{
     height: 2.2rem;
     padding: 0 0.3rem;
     font-size: 1em;
+}
+
+button{
+    
+    
 }
