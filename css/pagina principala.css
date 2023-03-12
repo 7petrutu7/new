@@ -101,6 +101,7 @@ p{
     display: flex;
     justify-content: center;
     height: 2.5rem;
+    width: 100%;
 }
 
 
@@ -113,4 +114,8 @@ p{
 
 .btn-cauta{
     background-color: #eee853;
+}
+
+.emaisimplusacautiinput{
+    font-size: 1em;
 }
