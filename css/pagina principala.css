@@ -89,7 +89,7 @@ p{
 .backgroundCategoriiPrincipale,
 .backgroundCategoriiPrincipale2{
     width: 100%;
-    height: 8rem;
+    height: 10rem;
     background-color: #020024;    
     margin-top: 0.5rem;
 }
@@ -181,8 +181,3 @@ p{
     width: 3.5rem;
 }
 
-.vezi{
-    display: block;
-    margin: 2rem auto;
-    font-size: 1.2em;
-}
