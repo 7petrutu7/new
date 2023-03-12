@@ -15,7 +15,7 @@ form{
     text-align: center;
 }
 
-input{
+.input1{
     font-size: 1.3em;
     border: 1px solid grey;
     padding: 0 0 0 12px;
@@ -29,8 +29,6 @@ input{
 .centerLogin{
     margin-top: 20px;
 }
-
-
 
 button{
     font-family: 'Times New Roman', Times, serif;
@@ -55,19 +53,18 @@ button{
 }
 
 label{
-    font-size: 25px;
+    font-size: 1.56em;
 }
 
 
 .centerlogin2{
     display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
-.inputcheck{
-    
-    width: 100%;
-    height: 16px;
-    margin: 17px 9px 0px 10px;
+.top{
+    margin-top: 1rem;
 }
 
 a{
