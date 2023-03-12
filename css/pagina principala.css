@@ -117,5 +117,7 @@ p{
 }
 
 .emaisimplusacautiinput{
+    padding-left: 0.3rem;
     font-size: 1em;
+    width: 11rem;
 }
