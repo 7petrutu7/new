@@ -172,4 +172,11 @@ p{
 }
 
 .casa-img{ width: 5rem;}
-.mama-img{width: 3rem;}
+.mama-img{
+    width: 2.5rem;
+    height: 4rem;
+}
+
+.moda-img{
+    width: 3.5rem;
+}
