@@ -5,7 +5,12 @@ body{background-color: #020024;}
 .centerLogin{margin-top: 1.25rem;}
 a{text-decoration: none;}
 form{text-align: center;}
-.top{margin-top: 1.7rem;}
+
+.container{
+    text-align: start;
+    margin-left: 0.5rem;
+    margin-top: 1.7rem;
+    width: 100%;}
 
 h1{
     margin: 1rem 0 0.5rem 0;
