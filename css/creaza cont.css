@@ -5,7 +5,7 @@ body{background-color: #020024;}
 .centerLogin{margin-top: 1.25rem;}
 a{text-decoration: none;}
 form{text-align: center;}
-.top{margin-top: 1rem;}
+.top{margin-top: 1.7rem;}
 
 h1{
     margin: 1rem 0 0.5rem 0;
@@ -15,6 +15,7 @@ h1{
 
 .am-citit-label{
     font-size: 1.2em;
+    
 }
 
 .input1{
