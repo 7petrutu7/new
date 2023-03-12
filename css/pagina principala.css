@@ -133,7 +133,7 @@ p{
 
 .categorie{
     width: 5.5rem;
-    
+
 }
 
 .img-categorie{
@@ -142,5 +142,6 @@ p{
 }
 
 .p-categorie{
+    text-align: center;
     color: white;
 }
