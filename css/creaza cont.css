@@ -55,15 +55,12 @@ label{
     font-size: 1.56em;
 }
 
-
 .centerlogin2{
     margin-top: 1.5rem;
     display: flex;
     flex-direction: row;
     align-items: center;
 }
-
-
 
 a{
     color: #eee853;
