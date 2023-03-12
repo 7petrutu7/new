@@ -256,6 +256,11 @@ footer{
     color: white;
 }
 
+.p-NePotiUrmari{
+    color: wheat;
+    text-align: center;
+}
+
 .div-footer-container{
     display: flex;
     justify-content: space-evenly;
