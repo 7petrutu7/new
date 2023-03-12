@@ -3,27 +3,45 @@ a{text-decoration: none;}
 .bg,.anunt,header,footer,.backgroundCategoriiPrincipale,.backgroundCategoriiPrincipale2{background-color: #020024;}
 .container-cautare,.backgroundCategoriiPrincipale,.backgroundCategoriiPrincipale2,header,footer,.divAnunturi{width: 100%;}
 .displayFlex,.df2,.df3,.df4,.container-cautare,.categoriiContainer,.divAnunturi,.div-social,.div-footer-container{display: flex;}
-.logo-img,.img-categorie,.img-inimaAlba,.img-anunt{display: block;}
+.p-NePotiUrmari,.p-copy,.divAnunturi p,.bg,.p-categorie,.emaisimplusacautih2,.emaisimplusacautih3,.vinzi{color: white;}
 .emaisimplusacautih2,.emaisimplusacautih3,.categorie,.bg,.divAnunturi p,.p-copy,.div-footer-container,.p-NePotiUrmari{text-align: center;}
 .div-social,.div-footer-container,.categoriiContainer{justify-content: space-evenly;}
+.logo-img,.img-categorie,.img-inimaAlba,.img-anunt{display: block;}
+.toataRomania,.emaisimplusacautiinput{font-size: 1em;}
+.p-NePotiUrmari,.p-footer,.p-copy{font-size: 1.2em;}
+.divAnunturi,.div-social,.df3{align-items: center;}
+.container-cautare,.df3{justify-content: center;}
 .df3,.df2,.divAnunturi{flex-direction: column;}
-.p-NePotiUrmari,.p-copy,.divAnunturi p,.bg,.p-categorie,.emaisimplusacautih2,.emaisimplusacautih3,.vinzi{color: white;}
+.rapid,.cm,.aa{color: #eee853;}
+.cm,.aa{padding-top: 0.5rem;}
+body, p{margin: 0;}
 
 
-body{
-    margin: 0;
-    background-color: black;
-}
-
+.divAnunturi p{line-height: 1.5rem;}
+.p-copy{padding-bottom: 0.5rem;}
+.div-footer{margin: 0.5rem 0;}
+.img-social{width: 2rem;}
+.img-youtube{width: 2.7rem;}
+.div-copy{margin-top: 1rem;}
+.div-social{margin: 0.5rem 0;}
+body{background-color: black;}
 .vinzi{margin-left: 0.3rem;}
+.displayFlex{justify-content: space-between;}
+header{height: 7.5rem;}
+.df3{margin-right: 1rem;}
+.df4{flex-direction: row;}
+.top{margin: 1.1rem 0 0.8rem 0;}
+.df5{margin-right: 1.5rem;}
+.rapid{margin-left: 0.5rem;}
+.emaisimplusacautiinput{width: 10.5rem;}
+.categoriiContainer{margin: 0 1rem 1.5rem 1rem;}
+.categorie{width: 6.5rem;}
+.divAnunturi{margin-top: 0.6rem;}
+.imob-p{margin-top: 0.7rem;}
+.p-categorie{margin-top: 0.5rem;}
 
-.displayFlex{
-    justify-content: space-between;
-}
 
-header{
-    height: 7.5rem;
-}
+
 
 .logo-img{
     margin: 0.2rem 0 0 1.5rem;
@@ -31,23 +49,7 @@ header{
     height: 4rem;
 }
 
-.df3{
-    align-items: center;
-    justify-content: center;
-    margin-right: 1rem;
-}
 
-.df4{
-    flex-direction: row;
-}
-
-.top{
-    margin: 1.1rem 0 0.8rem 0;
-}
-
-.df5{
-    margin-right: 1.5rem;
-}
 
 .img-cm,
 .img-add{
@@ -56,41 +58,18 @@ header{
     margin-right: 0.5rem;
 }
 
-.cm,
-.aa{
-    padding-top: 0.5rem;
-}
 
-p{
-    margin: 0;
-}
 
-.rapid{
-    margin-left: 0.5rem;
-}
 
-.rapid,
-.cm,
-.aa{
-    color: #eee853;    
-}
+
+
 
 /* aici header end */
 
-.backgroundCategoriiPrincipale,
-.backgroundCategoriiPrincipale2{
-    height: 11rem;
-    margin-top: 0.5rem;
-}
+.backgroundCategoriiPrincipale,.backgroundCategoriiPrincipale2{height: 11rem;margin-top: 0.5rem;}
 
-.backgroundCategoriiPrincipale2{
-    height: 39em;
-}
-
-.container-cautare{
-    justify-content: center;
-    height: 2.5rem;
-}
+.backgroundCategoriiPrincipale2{height: 39em;}
+.container-cautare{height: 2.5rem;}
 
 .emaisimplusacautih2,
 .emaisimplusacautih3{
@@ -107,22 +86,7 @@ p{
     font-size: 0.9em;
 }
 
-.emaisimplusacautiinput{
-    font-size: 1em;
-    width: 10.5rem;
-}
 
-.toataRomania{
-    font-size: 1em;
-}
-
-.categoriiContainer{
-    margin: 0 1rem 1.5rem 1rem;
-}
-
-.categorie{
-    width: 6.5rem;
-}
 
 .img-categorie{
     width: 4rem;
@@ -131,10 +95,6 @@ p{
    
 }
 
-.p-categorie{
-    margin-top: 0.5rem;
-    color: white;
-}
 
 .auto-img{
     width: 5rem;
@@ -146,9 +106,6 @@ p{
     width: 3.6em;
 }
 
-.imob-p{
-    margin-top: 0.7rem;
-}
 
 .elec-img{
     margin-top: 0.5rem;
@@ -162,9 +119,7 @@ p{
     height: 4rem;
 }
 
-.moda-img{
-    width: 3.5rem;
-}
+.moda-img{width: 3.5rem;}
 
 .bg{
     margin: 1rem 0;
@@ -173,10 +128,7 @@ p{
 
 /* anunturi start */
 
-.divAnunturi{
-    margin-top: 0.6rem;
-    align-items: center;
-}
+
 
 .anunt{
     position: relative;
@@ -189,9 +141,7 @@ p{
     margin: 0 auto;
 }
 
-.divAnunturi p {
-    line-height: 1.5rem;
-}
+
 
 .titlu{
     font-size: 1.1em;
@@ -211,40 +161,13 @@ p{
     right: 0rem;
 }
 
-.p-copy{
-    font-size: 1.2em;
-    padding-bottom: 0.5rem;
-}
 
 .p-footer{
-    font-size: 1.2em;
     margin: 0.8rem 0;
     color: whitesmoke;
 }
 
 .p-NePotiUrmari{
-    font-size: 1.2em;
     padding-top: 1rem;
     padding-bottom: 0.5rem;
-}
-
-.div-footer{
-    margin: 0.5rem 0;
-}
-
-.img-social{
-    width: 2rem;
-}
-
-.img-youtube{
-    width: 2.7rem;
-}
-
-.div-copy{
-    margin-top: 1rem;
-}
-
-.div-social{
-    margin: 0.5rem 0;
-    align-items: center;
 }
