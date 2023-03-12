@@ -51,10 +51,14 @@ button{
     justify-content: center;
 }
 
-label{
+
+.label-completeaza{
     font-size: 1.56em;
 }
 
+.amCititLabel{
+    font-size: 1.2em;
+}
 
 .centerlogin2{
     margin-top: 1rem;
@@ -63,15 +67,8 @@ label{
     align-items: center;
 }
 
-
 a{
-    color: #eee853;
     text-decoration: none;
-}
-
-.am{
-    text-align: center;
-    font-size: 1.2em;
 }
 
 .creaza{
