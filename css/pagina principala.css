@@ -249,6 +249,7 @@ footer{
 .p-copy{
     text-align: center;
     color: white;
+    padding-bottom: 0.5rem;
 }
 
 .p-footer{
