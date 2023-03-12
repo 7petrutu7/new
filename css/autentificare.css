@@ -4,13 +4,6 @@ body{
     background-color: #020024;
 }
 
-.divForm{
-    margin: auto;
-    height:100%;
-    width: 100%;
-    background-color: #020024;
-}
-
 h1{
     margin: 0;
     font-size: 1.8em;
@@ -52,8 +45,7 @@ input{
     font-size: 1.3em;
 }
 
-.imgAu{
-    margin: 0;
+.logo{
     width: 11.5rem;
     height: 9.5rem;
 }
