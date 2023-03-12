@@ -133,16 +133,19 @@ p{
 }
 
 .categorie{
+    
+    text-align: center;
     width: 5.5rem;
 
 }
 
 .img-categorie{
+    display: block;
+    margin: 0 auto;
     width: 4.5rem;
     height: 4.5rem;
 }
 
 .p-categorie{
-    text-align: center;
     color: white;
 }
