@@ -204,6 +204,7 @@ p{
 }
 
 .anunt{
+    position: relative;
     background-color: #020024;
     margin-bottom: 1rem;
     width: 20rem;
@@ -233,7 +234,9 @@ p{
 }
 
 .img-inimaAlba{
+    position: absolute;
     display: block;
-    width: 3rem;
-    margin: 0 auto;
+    width: 2.5rem;
+    bottom: 0.3rem;
+    right: 0.3rem;
 }
