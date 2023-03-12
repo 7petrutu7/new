@@ -129,6 +129,7 @@ p{
 
 .categoriiContainer{
     margin: 0 1rem;
+    display: flex;
 }
 
 .categorie{
