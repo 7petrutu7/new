@@ -130,6 +130,7 @@ p{
 .categoriiContainer{
     margin: 0 1rem;
     display: flex;
+    border: 1px solid red;
 }
 
 .categorie{
@@ -138,6 +139,7 @@ p{
 }
 
 .img-categorie{
+    border: 1px solid green;
     display: block;
     margin: 0 auto;
     width: 4.5rem;
@@ -146,4 +148,9 @@ p{
 
 .p-categorie{
     color: white;
+}
+
+.elec{
+    height: 5rem;
+    width: 3rem;
 }
