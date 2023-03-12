@@ -257,7 +257,7 @@ footer{
 }
 
 .p-NePotiUrmari{
-    color: wheat;
+    color: white;
     text-align: center;
 }
 
@@ -265,4 +265,19 @@ footer{
     display: flex;
     justify-content: space-evenly;
     text-align: center;
+}
+
+.img-social{
+    width: 2rem;
+}
+
+.img-youtube{
+    width: 2.7rem;
+}
+
+.div-social{
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
