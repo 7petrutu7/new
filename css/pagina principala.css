@@ -267,6 +267,10 @@ footer{
     text-align: center;
 }
 
+.div-footer{
+    margin: 0.5rem 0;
+}
+
 .img-social{
     width: 2rem;
 }
