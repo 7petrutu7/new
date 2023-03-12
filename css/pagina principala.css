@@ -185,6 +185,13 @@ p{
     width: 3.5rem;
 }
 
+.bg{
+    margin: 0;
+    background-color: #020024;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;   
+}
 
 /* anunturi start */
 
@@ -193,11 +200,15 @@ p{
     width: 100%;
     display: flex;
     flex-direction: column;
+}
+
+.anunt{
     background-color: #020024;
 }
 
 .img-anunt{
-    width: 10rem;
+    width: 18rem;
     display: block;
     margin: 0 auto;
 }
+
