@@ -218,4 +218,13 @@ p{
 .divAnunturi p {
     color: white;
     text-align: center;
+    line-height: 1.5rem;
+}
+
+.titlu{
+    padding: 0.5rem;
+}
+
+.pret{
+    padding-bottom: 0.5rem;
 }
