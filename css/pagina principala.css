@@ -248,7 +248,7 @@ footer{
 
 .p-copy{
     text-align: center;
-    color: #eee853;
+    color: white;
 }
 
 .p-footer{
@@ -257,7 +257,7 @@ footer{
 }
 
 .p-NePotiUrmari{
-    padding-top: 0.5rem;
+    padding-top: 1rem;
     color: white;
     text-align: center;
 }
