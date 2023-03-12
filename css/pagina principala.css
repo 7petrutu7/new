@@ -285,6 +285,10 @@ footer{
     width: 2.7rem;
 }
 
+.div-copy{
+    margin-top: 1rem;
+}
+
 .div-social{
     margin: 0.5rem 0;
     display: flex;
