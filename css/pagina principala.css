@@ -240,3 +240,22 @@ p{
     bottom: 7.5rem;
     right: 0rem;
 }
+
+footer{
+    background-color: #020024;
+    width: 100%;
+}
+
+.p-copy{
+    text-align: center;
+    color: #eee853;
+}
+
+.p-footer{
+    color: white;
+}
+
+.div-footer-container{
+    display: flex;
+    justify-content: space-evenly;
+}
