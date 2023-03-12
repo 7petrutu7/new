@@ -189,9 +189,11 @@ p{
 /* anunturi start */
 
 .divAnunturi{
+    margin-top: 0.6rem;
     width: 100%;
     display: flex;
     flex-direction: column;
+    background-color: #020024;
 }
 
 .img-anunt{
