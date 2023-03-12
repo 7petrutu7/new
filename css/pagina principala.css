@@ -128,20 +128,17 @@ p{
 }
 
 .categoriiContainer{
-    border: 1px solid grey;
     margin: 0 1rem;
     display: flex;
     justify-content: space-evenly;
 }
 
 .categorie{
-    border: 1px solid whitesmoke;
     text-align: center;
     width: 6.5rem;
 }
 
 .img-categorie{
-    border: 1px solid goldenrod;
     display: block;
     margin: 0 auto;
    
