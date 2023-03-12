@@ -1,0 +1,103 @@
+body{
+    background-color: #020024;
+}
+
+.divForm{
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    background-color: #020024;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+form{
+    text-align: center;
+}
+
+input{
+    font-size: 1.3em;
+    border: 1px solid grey;
+    padding: 0 0 0 12px;
+    background-color: whitesmoke;
+    border-radius: 40px;
+    margin-top: 5px;
+    height: 35px;
+    width: 70%;
+}
+
+.centerLogin{
+    margin-top: 20px;
+}
+
+.divAiCreaza{
+    margin-top: 22px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    border: none;
+    font-size: 1.4em;
+    width: 70%;
+    border-radius: 30px;
+    height: 40px;
+    color: white;
+    background-color: #082B2B;
+    
+}
+
+.logo{
+    width: 11.5rem;
+    height: 9.5rem;
+}
+
+.centerImgAu{
+    display: flex;
+    justify-content: center;
+}
+
+label{
+    font-size: 25px;
+    color: white;
+}
+
+
+.centerlogin2{
+    display: flex;
+}
+
+.inputcheck{
+    
+    width: 100%;
+    height: 16px;
+    margin: 17px 9px 0px 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.am{
+    margin-bottom: 0;
+    margin-right: 10px;
+    font-size: 16px;
+    color: white;
+}
+
+.inregistrare{
+    color: white;
+    
+    
+}
+
+.creaza{
+    font-size: 1.3em;
+    color: grey;
+}
