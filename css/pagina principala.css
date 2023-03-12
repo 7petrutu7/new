@@ -180,3 +180,9 @@ p{
 .moda-img{
     width: 3.5rem;
 }
+
+.vezi{
+    display: block;
+    margin: 0 auto;
+    font-size: 1em;
+}
