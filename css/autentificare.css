@@ -13,7 +13,7 @@ body{
 
 h1{
     margin: 0;
-    font-size: 2em;
+    font-size: 1.8em;
     text-align: center;
     padding: 1.25rem 0; 
 }
@@ -34,11 +34,12 @@ input{
 }
 
 .autentificare{
-    font-size: 1.3em;
+    font-size: 1.4em;
     border: none;
+    margin-top: 1rem;
     width: 70%;
-    border-radius: 1.8rem;
     height: 2.5rem;
+    border-radius: 1.8rem;
     background-color: #082B2B;
 }
 
@@ -49,10 +50,6 @@ input{
 
 .aiUitat{
     font-size: 1.3em;
-}
-
-button{
-    font-size: 1.2em;
 }
 
 .imgAu{
