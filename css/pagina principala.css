@@ -40,7 +40,6 @@ header{
     margin-right: 1rem;
 }
 
-
 .df4{
     display: flex;
     flex-direction: row;
@@ -61,7 +60,6 @@ header{
     margin-right: 0.5rem;
 }
 
-
 .cm,
 .aa{
     padding-top: 0.5rem;
@@ -70,8 +68,6 @@ header{
 p{
     margin: 0;
 }
-
-
 
 .vinzi{
     color: white;   
@@ -104,7 +100,6 @@ p{
     width: 100%;
 }
 
-
 .emaisimplusacautih2{
     color: white;
     text-align: center;
@@ -114,7 +109,7 @@ p{
 
 .btn-cauta{
     background-color: #eee853;
-    
+    font-size: 0.9em;
 }
 
 .emaisimplusacautiinput{
