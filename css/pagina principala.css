@@ -86,11 +86,16 @@ p{
 
 /* aici header end */
 
-.backgroundCategoriiPrincipale{
+.backgroundCategoriiPrincipale,
+.backgroundCategoriiPrincipale2{
     width: 100%;
     height: 8rem;
     background-color: #020024;    
     margin-top: 0.5rem;
+}
+
+.backgroundCategoriiPrincipale2{
+    height: 20rem;
 }
 
 .container-cautare{
@@ -120,4 +125,17 @@ p{
 
 .toataRomania{
     font-size: 1em;
+}
+
+.categorie{
+
+}
+
+.img-categorie{
+    width: 3rem;
+    height: 3rem;
+}
+
+.p-categorie{
+    color: white;
 }
