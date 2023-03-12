@@ -1,11 +1,11 @@
-*{box-sizing: border-box;}
-a{text-decoration: none;}
+
 .bg,.anunt,header,footer,.backgroundCategoriiPrincipale,.backgroundCategoriiPrincipale2{background-color: #020024;}
 .container-cautare,.backgroundCategoriiPrincipale,.backgroundCategoriiPrincipale2,header,footer,.divAnunturi{width: 100%;}
 .displayFlex,.df2,.df3,.df4,.container-cautare,.categoriiContainer,.divAnunturi,.div-social,.div-footer-container{display: flex;}
 .p-NePotiUrmari,.p-copy,.divAnunturi p,.bg,.p-categorie,.emaisimplusacautih2,.emaisimplusacautih3,.vinzi{color: white;}
 .emaisimplusacautih2,.emaisimplusacautih3,.categorie,.bg,.divAnunturi p,.p-copy,.div-footer-container,.p-NePotiUrmari{text-align: center;}
 .div-social,.div-footer-container,.categoriiContainer{justify-content: space-evenly;}
+.backgroundCategoriiPrincipale,.backgroundCategoriiPrincipale2{margin-top: 0.5rem;}
 .logo-img,.img-categorie,.img-inimaAlba,.img-anunt{display: block;}
 .toataRomania,.emaisimplusacautiinput{font-size: 1em;}
 .p-NePotiUrmari,.p-footer,.p-copy{font-size: 1.2em;}
@@ -17,119 +17,87 @@ a{text-decoration: none;}
 body, p{margin: 0;}
 
 
+.categoriiContainer{margin: 0 1rem 1.5rem 1rem;}
+.backgroundCategoriiPrincipale{height: 11rem;}
+.backgroundCategoriiPrincipale2{height: 39em;}
+.displayFlex{justify-content: space-between;}
+.emaisimplusacautiinput{width: 10.5rem;}
 .divAnunturi p{line-height: 1.5rem;}
+.container-cautare{height: 2.5rem;}
+.divAnunturi{margin-top: 0.6rem;}
+.p-categorie{margin-top: 0.5rem;}
+body{background-color: black;}
 .p-copy{padding-bottom: 0.5rem;}
+.top{margin: 1.1rem 0 0.8rem 0;}
+.div-social{margin: 0.5rem 0;}
 .div-footer{margin: 0.5rem 0;}
-.img-social{width: 2rem;}
 .img-youtube{width: 2.7rem;}
 .div-copy{margin-top: 1rem;}
-.div-social{margin: 0.5rem 0;}
-body{background-color: black;}
 .vinzi{margin-left: 0.3rem;}
-.displayFlex{justify-content: space-between;}
-header{height: 7.5rem;}
-.df3{margin-right: 1rem;}
-.df4{flex-direction: row;}
-.top{margin: 1.1rem 0 0.8rem 0;}
-.df5{margin-right: 1.5rem;}
 .rapid{margin-left: 0.5rem;}
-.emaisimplusacautiinput{width: 10.5rem;}
-.categoriiContainer{margin: 0 1rem 1.5rem 1rem;}
-.categorie{width: 6.5rem;}
-.divAnunturi{margin-top: 0.6rem;}
 .imob-p{margin-top: 0.7rem;}
-.p-categorie{margin-top: 0.5rem;}
-
-
-
+.df5{margin-right: 1.5rem;}
+.df4{flex-direction: row;}
+.categorie{width: 6.5rem;}
+*{box-sizing: border-box;}
+.img-social{width: 2rem;}
+.df3{margin-right: 1rem;}
+a{text-decoration: none;}
+header{height: 7.5rem;}
+.casa-img{width: 5rem;}
 
 .logo-img{
     margin: 0.2rem 0 0 1.5rem;
     width: 5rem;
     height: 4rem;
 }
-
-
-
 .img-cm,
 .img-add{
     height: 2.2rem;
     width: 2.2rem;
     margin-right: 0.5rem;
 }
-
-
-
-
-
-
-
-/* aici header end */
-
-.backgroundCategoriiPrincipale,.backgroundCategoriiPrincipale2{height: 11rem;margin-top: 0.5rem;}
-
-.backgroundCategoriiPrincipale2{height: 39em;}
-.container-cautare{height: 2.5rem;}
-
 .emaisimplusacautih2,
 .emaisimplusacautih3{
     margin: 0 0 1.4rem 0;
 }
-
 .emaisimplusacautih3{
     padding-top: 1.5rem;
     padding-bottom: 0.8rem;
 }
-
 .btn-cauta{
     background-color: #eee853;
     font-size: 0.9em;
 }
-
-
-
 .img-categorie{
     width: 4rem;
     height: 4rem;
     margin: 0 auto;
-   
 }
-
-
 .auto-img{
     width: 5rem;
     height: 4rem;
 }
-
 .imob-img{
     margin-top: 0.5rem;
     width: 3.6em;
 }
-
-
 .elec-img{
     margin-top: 0.5rem;
     height: 3.5rem;
     width: 2.4rem;
 }
-
-.casa-img{ width: 5rem;}
 .mama-img{
     width: 2.5rem;
     height: 4rem;
 }
-
-.moda-img{width: 3.5rem;}
-
+.moda-img{
+    width: 3.5rem;
+}
 .bg{
     margin: 1rem 0;
     padding: 1rem 0;   
 }
-
-/* anunturi start */
-
-
-
 .anunt{
     position: relative;
     margin-bottom: 1rem;
@@ -140,33 +108,25 @@ header{height: 7.5rem;}
     width: 20rem;
     margin: 0 auto;
 }
-
-
-
 .titlu{
     font-size: 1.1em;
     padding-top: 1rem;
     padding-bottom: 0.6rem;
 }
-
 .pret{
     padding-top: 0.5rem;
     padding-bottom: 0.8rem;
 }
-
 .img-inimaAlba{
     position: absolute;
     width: 2.5rem;
     bottom: 7.5rem;
     right: 0rem;
 }
-
-
 .p-footer{
     margin: 0.8rem 0;
     color: whitesmoke;
 }
-
 .p-NePotiUrmari{
     padding-top: 1rem;
     padding-bottom: 0.5rem;
