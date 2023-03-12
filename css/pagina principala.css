@@ -152,17 +152,22 @@ p{
     color: white;
 }
 
-.auto{
+.auto-img{
     width: 5rem;
     height: 4rem;
 }
 
-.imob{
+.imob-img{
     margin-top: 0.5rem;
     width: 3.6em;
 }
 
-.elec{
+.imob-p{
+    margin-top: 1rem;
+}
+
+.elec-img{
+    margin-top: 0.5rem;
     height: 3.5rem;
     width: 2.4rem;
 }
