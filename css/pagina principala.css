@@ -141,8 +141,7 @@ p{
 .img-categorie{
     display: block;
     margin: 0 auto;
-    width: 4.5rem;
-    height: 4.5rem;
+   
 }
 
 .p-categorie{
@@ -150,7 +149,17 @@ p{
     color: white;
 }
 
-.elec{
-    height: 5rem;
-    width: 3rem;
+.auto{
+    width: 5rem;
+    height: 4rem;
 }
+
+.imob{
+    width: 3.6em;
+}
+
+.elec{
+    height: 3.5rem;
+    width: 2.4rem;
+}
+
