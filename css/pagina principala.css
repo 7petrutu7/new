@@ -259,6 +259,11 @@ footer{
     color: #999199;
 }
 
+.functioneaza{
+    margin-top: 0.3rem;
+    margin-bottom: 1.7rem;
+}
+
 .p-NePotiUrmari{
     font-size: 1.2em;
     padding-top: 1rem;
@@ -278,7 +283,7 @@ footer{
 }
 
 .div-footer2{
-    margin: 1.2rem 0;
+    margin: 1rem 0;
 }
 
 .img-social{
