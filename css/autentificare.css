@@ -36,13 +36,12 @@ input{
 .autentificare{
     font-size: 1.4em;
     border: none;
-    margin-top: 1rem;
+    margin-top: 0.3rem;
     width: 70%;
     height: 2.5rem;
     border-radius: 1.8rem;
     background-color: #082B2B;
 }
-
 
 .centerLogin{
     margin-top: 1.2rem;
