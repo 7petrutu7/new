@@ -55,6 +55,7 @@ label{
     font-size: 1.56em;
 }
 
+
 .centerlogin2{
     margin-top: 1.5rem;
     display: flex;
@@ -62,12 +63,15 @@ label{
     align-items: center;
 }
 
+
+
 a{
     color: #eee853;
     text-decoration: none;
 }
 
 .am{
+    text-align: center;
     font-size: 1.2em;
 }
 
