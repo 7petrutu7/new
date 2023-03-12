@@ -231,3 +231,9 @@ p{
     padding-top: 0.5rem;
     padding-bottom: 0.8rem;
 }
+
+.img-inimaAlba{
+    display: block;
+    width: 3rem;
+    margin: 0 auto;
+}
