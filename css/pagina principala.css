@@ -247,6 +247,7 @@ footer{
 }
 
 .p-copy{
+    font-size: 1.2em;
     text-align: center;
     color: white;
     padding-bottom: 0.5rem;
@@ -259,7 +260,9 @@ footer{
 }
 
 .p-NePotiUrmari{
+    font-size: 1.2em;
     padding-top: 1rem;
+    padding-bottom: 0.5rem;
     color: white;
     text-align: center;
 }
@@ -272,6 +275,10 @@ footer{
 
 .div-footer{
     margin: 0.5rem 0;
+}
+
+.div-footer2{
+    margin: 1.2rem 0;
 }
 
 .img-social{
