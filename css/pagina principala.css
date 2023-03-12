@@ -92,26 +92,24 @@ p{
 
 .backgroundCategoriiPrincipale{
     width: 100%;
-    height: 10rem;
+    height: 8rem;
     background-color: #020024;    
     margin-top: 0.5rem;
 }
 
-.container{
+.container-cautare{
     display: flex;
     justify-content: center;
 }
 
-.emaisimplusacauti{
-    width: 10.5rem;
-    height: 2.2rem;
-    padding: 0 0.3rem;
-    font-size: 1em;
-}
 
 .emaisimplusacautih2{
     color: white;
     text-align: center;
     margin: 0 0 1.4rem 0;
     padding-top: 1.4rem;
+}
+
+.btn-cauta{
+    background-color: #eee853;
 }
