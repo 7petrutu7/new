@@ -253,10 +253,11 @@ footer{
 
 .p-footer{
     margin: 0.5rem;
-    color: white;
+    color: #999199;
 }
 
 .p-NePotiUrmari{
+    padding-top: 0.5rem;
     color: white;
     text-align: center;
 }
