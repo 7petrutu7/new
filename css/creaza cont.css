@@ -1,8 +1,11 @@
 button,h1,.aiUitat,.inregistrare,label,.am{color: white;}
 
-body{
-    background-color: #020024;
-}
+.label-completeaza{font-size: 1.56em;}
+body{background-color: #020024;}
+.centerLogin{margin-top: 1.25rem;}
+a{text-decoration: none;}
+form{text-align: center;}
+.top{margin-top: 1rem;}
 
 h1{
     margin: 1rem 0 0.5rem 0;
@@ -10,8 +13,8 @@ h1{
     text-align: center;
 }
 
-form{
-    text-align: center;
+.am-citit-label{
+    font-size: 1.2em;
 }
 
 .input1{
@@ -25,10 +28,6 @@ form{
     width: 70%;
 }
 
-.centerLogin{
-    margin-top: 1.25rem;
-}
-
 button{
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.3em;
@@ -38,7 +37,6 @@ button{
     height: 2.5rem;
     border-radius: 1.8rem;
     background-color: #082B2B;
-    
 }
 
 .logo{
@@ -49,29 +47,6 @@ button{
 .centerImgAu{
     display: flex;
     justify-content: center;
-}
-
-.top{
-    margin-top: 1rem;
-}
-
-.label-completeaza{
-    font-size: 1.56em;
-}
-
-.amCititLabel{
-    font-size: 1.2em;
-}
-
-.centerlogin2{
-    margin-top: 1rem;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-a{
-    text-decoration: none;
 }
 
 .creaza{
