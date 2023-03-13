@@ -115,10 +115,12 @@ a{
 }
 
 .partea-stanga-div{
+    padding-left: 0.5rem;
     text-align: start;
 }
 
 .partea-dreapta-div{
+    padding-right: 0.5rem;
     text-align: end;
 }
 
