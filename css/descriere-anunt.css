@@ -98,15 +98,17 @@ a{
     text-align: center;
 }
 
-.titlu, .pret{
-    padding: 2rem 0;
-    font-size: 1.2em;
+.anunt p {
+    font-size: 1.1em;
 }
 
+.titlu{
+    padding: 2rem;
+}
 
-
-
-
+.pret{
+    padding: 1.5rem;
+}
 
 
 
