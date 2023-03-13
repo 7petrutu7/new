@@ -80,7 +80,7 @@ a{
 /* main start */
 
 .anunt{
-    width: 20rem;
+    width: 22rem;
     margin: 2rem auto 0 auto;
 }
 
@@ -95,19 +95,13 @@ a{
 .space-div{
     display: flex;
     justify-content: space-between;
+    text-align: center;
 }
 
 .titlu, .pret{
     padding: 0.5rem 0;
 }
 
-.partea-stanga-div{
-    margin-left: 0.5rem;
-}
-
-.partea-dreapta-div{
-    margin-right: 0.5rem;
-}
 
 
 
