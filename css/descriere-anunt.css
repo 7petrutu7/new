@@ -98,11 +98,12 @@ a{
     text-align: center;
 }
 
-.anunt p {
+.in-div{
     font-size: 1.1em;
 }
 
 .titlu{
+    font-size: 1.3em;
     padding: 2rem;
 }
 
