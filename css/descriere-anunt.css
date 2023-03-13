@@ -95,7 +95,6 @@ a{
 .space-div{
     display: flex;
     justify-content: space-between;
-    text-align: center;
 }
 
 .in-div{
@@ -106,13 +105,22 @@ a{
 .titlu{
     font-size: 1.2em;
     padding: 1rem;
+    text-align: center;
 }
 
 .pret{
+    text-align: center;
     font-size: 1.1em;
     padding: 1.5rem;
 }
 
+.partea-stanga-div{
+    text-align: start;
+}
+
+.partea-dreapta-div{
+    text-align: end;
+}
 
 
 
@@ -133,7 +141,7 @@ a{
     color: white;
 }
 
-p,.p-copy,.div-footer-container,.p-NePotiUrmari{
+.p-copy,.div-footer-container,.p-NePotiUrmari{
     text-align: center;
 }
 
