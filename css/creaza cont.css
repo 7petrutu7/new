@@ -26,6 +26,10 @@ h1{
     margin-right: 0.4rem;
 }
 
+.input-am:hover{
+    cursor: pointer;
+}
+
 .input1{
     font-size: 1.3em;
     border: 1px solid grey;
@@ -48,6 +52,12 @@ button{
     background-color: #082B2B;
 }
 
+button:active{
+    width: 65%;
+    height: 2rem;
+    background-color: #eee853;
+}
+
 .logo{
     width: 11.5rem;
     height: 9.5rem;
@@ -61,4 +71,8 @@ button{
 .creaza{
     font-size: 1.3em;
     color: grey;
+}
+
+.a-autentificate{
+    text-decoration: none;
 }
