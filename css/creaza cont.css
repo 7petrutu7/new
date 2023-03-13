@@ -55,7 +55,6 @@ button{
 button:active{
     width: 65%;
     height: 2rem;
-    background-color: #eee853;
 }
 
 .logo{
