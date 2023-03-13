@@ -82,3 +82,82 @@ a{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* start footer */
+
+.div-social{
+    align-items: center;
+}
+
+.div-social,.div-footer-container{
+    display: flex;
+}
+
+.p-NePotiUrmari,.p-copy p{
+    color: white;
+}
+
+p,.p-copy,.div-footer-container,.p-NePotiUrmari{
+    text-align: center;
+}
+
+.div-social,.div-footer-container{
+    justify-content: space-evenly;
+}
+
+footer{
+    background-color: #020024;
+    width: 100%;
+}
+
+.div-social,.div-footer{
+    margin: 0.5rem 0;
+}
+
+.img-social{
+    width: 2rem;
+}
+
+.img-youtube{
+    width: 2.7rem;
+}
+
+.p-footer{
+    margin: 0.8rem 0;
+    color: whitesmoke;
+}
+.p-NePotiUrmari{
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.p-copy{
+    padding-bottom: 0.5rem;
+}
+
+.p-NePotiUrmari,.p-footer,.p-copy{
+    font-size: 1.2em;
+}
+
+/* end footer */
+
+
+
+
+
+
+
