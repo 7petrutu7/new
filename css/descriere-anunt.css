@@ -92,6 +92,11 @@ a{
     background-color: #020024;
 }
 
+.space-div{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
 
 .anunt p {
     font-size: 1.1em;
