@@ -181,7 +181,7 @@ a{
     font-size: 1.2em;
 }
 
-.suna{
+.suna,.mesaj{
     width: 49%;
     height: 2rem;
     font-size: 1.1em;
@@ -189,13 +189,6 @@ a{
     color: black;
 }
 
-.mesaj{
-    font-size: 1.1em;
-    height: 2rem;
-    width: 49%;
-    color: black;
-    background-color: white;
-}
 
 /* main end */
 
