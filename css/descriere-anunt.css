@@ -168,6 +168,13 @@ a{
     justify-content: center;
 }
 
+.detalii-vanzator{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5rem;
+    justify-content: space-evenly;
+}
+
 /* main end */
 
 /* start footer */
@@ -227,10 +234,3 @@ footer{
 }
 
 /* end footer */
-
-
-
-
-
-
-
