@@ -80,7 +80,6 @@ a{
 /* main start */
 
 .anunt{
-    
     width: 20rem;
     margin: 2rem auto 0 auto;
 }
@@ -89,8 +88,18 @@ a{
     width: 100%;
 }
 
+.container1{
+    background-color: #020024;
+}
 
+.space-div{
+    display: flex;
+    justify-content: space-between;
+}
 
+.titlu, .pret{
+    padding: 0.5rem 0;
+}
 
 
 
