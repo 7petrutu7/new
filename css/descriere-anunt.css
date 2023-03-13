@@ -133,12 +133,12 @@ a{
     text-align: start;
     color: rgb(0, 47, 52);
     font-size: 1.3em;
-    padding: 2rem 0px 2rem 1.25rem;
+    padding: 1rem 0 0.5rem 0.5rem;
 }
 
 .p-descriere{
     text-align: start;
-    padding: 0 1rem 0 1rem;
+    padding: 0 0.5rem;
     font-size: 1em;
     color: rgb(0, 47, 52);
     line-height: 1.5;
