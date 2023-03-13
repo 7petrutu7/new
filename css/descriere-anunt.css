@@ -156,6 +156,18 @@ a{
     padding: 1rem 0;
 }
 
+.img-profil{
+    display: block;
+    height: 5rem;
+    width: 5rem;
+    border-radius:50%;
+}
+
+.profil-vanzator{
+    display: flex;
+    justify-content: center;
+}
+
 /* main end */
 
 /* start footer */
