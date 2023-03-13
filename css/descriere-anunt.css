@@ -181,6 +181,20 @@ a{
     font-size: 1.2em;
 }
 
+.suna{
+    width: 49%;
+    height: 2rem;
+    background-color:rgb(0, 47, 52);
+    color: white;
+}
+
+.mesaj{
+    height: 2rem;
+    width: 49%;
+    color: white;
+    background-color: blue;
+}
+
 /* main end */
 
 /* start footer */
