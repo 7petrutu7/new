@@ -37,6 +37,11 @@ input{
     background-color: #082B2B;
 }
 
+button:active{
+    width: 65%;
+    height: 2rem;
+}
+
 .centerLogin{
     margin-top: 1.2rem;
 }

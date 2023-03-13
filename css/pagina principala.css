@@ -27,7 +27,8 @@ body, p{margin: 0;}
 .divAnunturi{margin-top: 0.6rem;}
 .p-categorie{margin-top: 0.5rem;}
 body{background-color: black;}
-.p-copy{padding-bottom: 0.5rem;}
+.p-copy{padding-bottom: 0.5rem;
+color: #eee853;}
 .top{margin: 1.1rem 0 0.8rem 0;}
 .div-social{margin: 0.5rem 0;}
 .div-footer{margin: 0.5rem 0;}
