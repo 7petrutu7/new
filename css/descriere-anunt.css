@@ -107,7 +107,7 @@ a{
     display: flex;
 }
 
-.p-NePotiUrmari,.p-copy p{
+.p-NePotiUrmari,.p-copy, p{
     color: white;
 }
 
