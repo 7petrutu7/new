@@ -144,6 +144,18 @@ a{
     line-height: 1.4;
 }
 
+.container3{
+    background-color: #020024;
+}
+
+.contacteaza-vanzator-p{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 1.2em;
+    padding: 1rem 0;
+}
+
 /* main end */
 
 /* start footer */
