@@ -81,10 +81,13 @@ a{
 
 .anunt{
     
-    width: 90%;
+    width: 20rem;
     margin: 2rem auto 0 auto;
 }
 
+.img-anunt{
+    width: 100%;
+}
 
 
 
