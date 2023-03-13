@@ -101,7 +101,13 @@ a{
     padding: 0.5rem 0;
 }
 
+.partea-stanga-div{
+    margin-left: 0.5rem;
+}
 
+.partea-dreapta-div{
+    margin-right: 0.5rem;
+}
 
 
 
