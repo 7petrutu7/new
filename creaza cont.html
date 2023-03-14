@@ -8,11 +8,11 @@
         <meta name="description" content="Pagina de inregistrare pentru website-ul emaisimplu.ro, unde poți gestiona anunțurile și profilul tău.">
         <meta name="keywords" content="e mai simplu, emaisimplu, site de anunturi, contul meu, anunțuri, profil, inregistrare, creare cont">
         <meta name="author" content="E mai simplu SRL">
-        <link rel="stylesheet" href="/css/creaza cont.css">
-        <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon_io/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon_io/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon_io/favicon-16x16.png">
-        <link rel="manifest" href="/assets/favicon_io/site.webmanifest">
+        <link rel="stylesheet" href="creaza cont.css">
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon_io/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon_io/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon_io/favicon-16x16.png">
+        <link rel="manifest" href="assets/favicon_io/site.webmanifest">
     </head>
 <body>
     
@@ -20,9 +20,9 @@
         <main>
             <h1>Creaza cont</h1>
             <div class="centerImgAu">
-                <a href="/index.html"><img class="logo" src="/assets/logo/logo.webp" alt="logo-ul website-ului emaisimplu.ro care te redirectioneaza la pagina principala"></a>
+                <a href="index.html"><img class="logo" src="assets/logo/logo.webp" alt="logo-ul website-ului emaisimplu.ro care te redirectioneaza la pagina principala"></a>
             </div>
-            <form id="form">
+            <form id="form" action="register.php" method="post">
                 <div>
                     <label class="label-completeaza" for="nume">Nume </label>
                     <br>
@@ -47,12 +47,11 @@
                     <input class="input-am" type="checkbox" id="termenii"><label class="am-citit-label" for="termenii">Sunt de acord cu <a href="#">termenii și condițile</a> site-ului precum si cu <a href="#">politica de confidențialitate.</a></label>
                 </div>
                 <div class="centerLogin">
-                    <a href="creaza cont.html"><button type="submit">Creaza cont</button></a>
+                    <button type="submit">Creaza cont</button>
                 </div>
                 <p class="creaza">Ai deja un cont? <br> <a class="a-autentificate" href="autentificare.html"><span class="inregistrare">  Autentificate </a></span></p>
             </form>
         </main>
     </section>
-
 </body>
 </html>
