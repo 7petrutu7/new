@@ -27,7 +27,7 @@ if ($parola !== $confirmaparola) {
 $parola_hashed = password_hash($parola, PASSWORD_DEFAULT);
 
 // Inserarea datelor în baza de date
-$sql = "INSERT INTO mydb (nume, email, parola) VALUES (?, ?, ?)";
+$sql = "INSERT INTO users (nume, email, parola) VALUES (?, ?, ?)";
 
 $stmt = $conn->prepare($sql);
 $stmt->bind_param("sss", $nume, $email, $parola_hashed);
